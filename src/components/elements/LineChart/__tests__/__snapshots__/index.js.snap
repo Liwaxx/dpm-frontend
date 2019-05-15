@@ -1,0 +1,37 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`PieChart renders correctly 1`] = `
+<div
+  className="MuiGrid-container-9"
+>
+  <div
+    className="MuiGrid-item-10 MuiGrid-grid-xs-2-39"
+  >
+    <div
+      className="Component-span-3"
+    >
+      
+    </div>
+  </div>
+  <div
+    className="MuiGrid-item-10 MuiGrid-grid-xs-10-47"
+  />
+</div>
+`;
+
+exports[`PieChart renders with legend 1`] = `
+<div
+  className="MuiGrid-container-9"
+>
+  <div
+    className="MuiGrid-item-10 MuiGrid-grid-xs-2-39"
+  >
+    <div
+      className="Component-span-3"
+    />
+  </div>
+  <div
+    className="MuiGrid-item-10 MuiGrid-grid-xs-10-47"
+  />
+</div>
+`;

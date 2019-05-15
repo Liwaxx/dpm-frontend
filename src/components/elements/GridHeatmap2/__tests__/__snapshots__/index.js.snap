@@ -1,0 +1,8102 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`GridHeatMap2 renders correctly 1`] = `null`;
+
+exports[`GridHeatMap2 renders with data 1`] = `
+<div
+  className="Component-GridHeatmap2-1"
+>
+  <div>
+    <div>
+      <div
+        style={
+          Object {
+            "display": "flex",
+          }
+        }
+      >
+        <div
+          style={
+            Object {
+              "flex": "0 0 40px",
+            }
+          }
+        >
+           
+          <div
+            style={
+              Object {
+                "paddingRight": "5px",
+                "paddingTop": "4.0540540540540535px",
+                "textAlign": "right",
+              }
+            }
+          >
+            24,00
+          </div>
+           
+        </div>
+        <div
+          onClick={[Function]}
+          style={
+            Object {
+              "background": "blue",
+              "cursor": "",
+              "flex": "none",
+              "height": 15,
+              "margin": "1px 1px 0 0",
+              "opacity": 1,
+              "textAlign": "center",
+              "width": "15px",
+            }
+          }
+          title="2 "
+        >
+          <div
+            style={
+              Object {
+                "paddingTop": "4.0540540540540535px",
+              }
+            }
+          />
+        </div>
+        <div
+          onClick={[Function]}
+          style={
+            Object {
+              "background": "blue",
+              "cursor": "",
+              "flex": "none",
+              "height": 15,
+              "margin": "1px 1px 0 0",
+              "opacity": 0,
+              "textAlign": "center",
+              "width": "15px",
+            }
+          }
+          title="0 "
+        >
+          <div
+            style={
+              Object {
+                "paddingTop": "4.0540540540540535px",
+              }
+            }
+          />
+        </div>
+        <div
+          onClick={[Function]}
+          style={
+            Object {
+              "background": "blue",
+              "cursor": "",
+              "flex": "none",
+              "height": 15,
+              "margin": "1px 1px 0 0",
+              "opacity": 0,
+              "textAlign": "center",
+              "width": "15px",
+            }
+          }
+          title="0 "
+        >
+          <div
+            style={
+              Object {
+                "paddingTop": "4.0540540540540535px",
+              }
+            }
+          />
+        </div>
+        <div
+          onClick={[Function]}
+          style={
+            Object {
+              "background": "blue",
+              "cursor": "",
+              "flex": "none",
+              "height": 15,
+              "margin": "1px 1px 0 0",
+              "opacity": 0,
+              "textAlign": "center",
+              "width": "15px",
+            }
+          }
+          title="0 "
+        >
+          <div
+            style={
+              Object {
+                "paddingTop": "4.0540540540540535px",
+              }
+            }
+          />
+        </div>
+        <div
+          onClick={[Function]}
+          style={
+            Object {
+              "background": "blue",
+              "cursor": "",
+              "flex": "none",
+              "height": 15,
+              "margin": "1px 1px 0 0",
+              "opacity": 0,
+              "textAlign": "center",
+              "width": "15px",
+            }
+          }
+          title="0 "
+        >
+          <div
+            style={
+              Object {
+                "paddingTop": "4.0540540540540535px",
+              }
+            }
+          />
+        </div>
+        <div
+          onClick={[Function]}
+          style={
+            Object {
+              "background": "blue",
+              "cursor": "",
+              "flex": "none",
+              "height": 15,
+              "margin": "1px 1px 0 0",
+              "opacity": 0,
+              "textAlign": "center",
+              "width": "15px",
+            }
+          }
+          title="0 "
+        >
+          <div
+            style={
+              Object {
+                "paddingTop": "4.0540540540540535px",
+              }
+            }
+          />
+        </div>
+        <div
+          onClick={[Function]}
+          style={
+            Object {
+              "background": "blue",
+              "cursor": "",
+              "flex": "none",
+              "height": 15,
+              "margin": "1px 1px 0 0",
+              "opacity": 0,
+              "textAlign": "center",
+              "width": "15px",
+            }
+          }
+          title="0 "
+        >
+          <div
+            style={
+              Object {
+                "paddingTop": "4.0540540540540535px",
+              }
+            }
+          />
+        </div>
+        <div
+          onClick={[Function]}
+          style={
+            Object {
+              "background": "blue",
+              "cursor": "",
+              "flex": "none",
+              "height": 15,
+              "margin": "1px 1px 0 0",
+              "opacity": 0,
+              "textAlign": "center",
+              "width": "15px",
+            }
+          }
+          title="0 "
+        >
+          <div
+            style={
+              Object {
+                "paddingTop": "4.0540540540540535px",
+              }
+            }
+          />
+        </div>
+        <div
+          onClick={[Function]}
+          style={
+            Object {
+              "background": "blue",
+              "cursor": "",
+              "flex": "none",
+              "height": 15,
+              "margin": "1px 1px 0 0",
+              "opacity": 0,
+              "textAlign": "center",
+              "width": "15px",
+            }
+          }
+          title="0 "
+        >
+          <div
+            style={
+              Object {
+                "paddingTop": "4.0540540540540535px",
+              }
+            }
+          />
+        </div>
+        <div
+          onClick={[Function]}
+          style={
+            Object {
+              "background": "blue",
+              "cursor": "",
+              "flex": "none",
+              "height": 15,
+              "margin": "1px 1px 0 0",
+              "opacity": 0,
+              "textAlign": "center",
+              "width": "15px",
+            }
+          }
+          title="0 "
+        >
+          <div
+            style={
+              Object {
+                "paddingTop": "4.0540540540540535px",
+              }
+            }
+          />
+        </div>
+        <div
+          onClick={[Function]}
+          style={
+            Object {
+              "background": "blue",
+              "cursor": "",
+              "flex": "none",
+              "height": 15,
+              "margin": "1px 1px 0 0",
+              "opacity": 0,
+              "textAlign": "center",
+              "width": "15px",
+            }
+          }
+          title="0 "
+        >
+          <div
+            style={
+              Object {
+                "paddingTop": "4.0540540540540535px",
+              }
+            }
+          />
+        </div>
+        <div
+          onClick={[Function]}
+          style={
+            Object {
+              "background": "blue",
+              "cursor": "",
+              "flex": "none",
+              "height": 15,
+              "margin": "1px 1px 0 0",
+              "opacity": 0,
+              "textAlign": "center",
+              "width": "15px",
+            }
+          }
+          title="0 "
+        >
+          <div
+            style={
+              Object {
+                "paddingTop": "4.0540540540540535px",
+              }
+            }
+          />
+        </div>
+      </div>
+      <div
+        style={
+          Object {
+            "display": "flex",
+          }
+        }
+      >
+        <div
+          style={
+            Object {
+              "flex": "0 0 40px",
+            }
+          }
+        >
+           
+          <div
+            style={
+              Object {
+                "paddingRight": "5px",
+                "paddingTop": "4.0540540540540535px",
+                "textAlign": "right",
+              }
+            }
+          >
+            23,00
+          </div>
+           
+        </div>
+        <div
+          onClick={[Function]}
+          style={
+            Object {
+              "background": "blue",
+              "cursor": "",
+              "flex": "none",
+              "height": 15,
+              "margin": "1px 1px 0 0",
+              "opacity": 0,
+              "textAlign": "center",
+              "width": "15px",
+            }
+          }
+          title="0 "
+        >
+          <div
+            style={
+              Object {
+                "paddingTop": "4.0540540540540535px",
+              }
+            }
+          />
+        </div>
+        <div
+          onClick={[Function]}
+          style={
+            Object {
+              "background": "blue",
+              "cursor": "",
+              "flex": "none",
+              "height": 15,
+              "margin": "1px 1px 0 0",
+              "opacity": 0,
+              "textAlign": "center",
+              "width": "15px",
+            }
+          }
+          title="0 "
+        >
+          <div
+            style={
+              Object {
+                "paddingTop": "4.0540540540540535px",
+              }
+            }
+          />
+        </div>
+        <div
+          onClick={[Function]}
+          style={
+            Object {
+              "background": "blue",
+              "cursor": "",
+              "flex": "none",
+              "height": 15,
+              "margin": "1px 1px 0 0",
+              "opacity": 0,
+              "textAlign": "center",
+              "width": "15px",
+            }
+          }
+          title="0 "
+        >
+          <div
+            style={
+              Object {
+                "paddingTop": "4.0540540540540535px",
+              }
+            }
+          />
+        </div>
+        <div
+          onClick={[Function]}
+          style={
+            Object {
+              "background": "blue",
+              "cursor": "",
+              "flex": "none",
+              "height": 15,
+              "margin": "1px 1px 0 0",
+              "opacity": 0,
+              "textAlign": "center",
+              "width": "15px",
+            }
+          }
+          title="0 "
+        >
+          <div
+            style={
+              Object {
+                "paddingTop": "4.0540540540540535px",
+              }
+            }
+          />
+        </div>
+        <div
+          onClick={[Function]}
+          style={
+            Object {
+              "background": "blue",
+              "cursor": "",
+              "flex": "none",
+              "height": 15,
+              "margin": "1px 1px 0 0",
+              "opacity": 0,
+              "textAlign": "center",
+              "width": "15px",
+            }
+          }
+          title="0 "
+        >
+          <div
+            style={
+              Object {
+                "paddingTop": "4.0540540540540535px",
+              }
+            }
+          />
+        </div>
+        <div
+          onClick={[Function]}
+          style={
+            Object {
+              "background": "blue",
+              "cursor": "",
+              "flex": "none",
+              "height": 15,
+              "margin": "1px 1px 0 0",
+              "opacity": 0,
+              "textAlign": "center",
+              "width": "15px",
+            }
+          }
+          title="0 "
+        >
+          <div
+            style={
+              Object {
+                "paddingTop": "4.0540540540540535px",
+              }
+            }
+          />
+        </div>
+        <div
+          onClick={[Function]}
+          style={
+            Object {
+              "background": "blue",
+              "cursor": "",
+              "flex": "none",
+              "height": 15,
+              "margin": "1px 1px 0 0",
+              "opacity": 0,
+              "textAlign": "center",
+              "width": "15px",
+            }
+          }
+          title="0 "
+        >
+          <div
+            style={
+              Object {
+                "paddingTop": "4.0540540540540535px",
+              }
+            }
+          />
+        </div>
+        <div
+          onClick={[Function]}
+          style={
+            Object {
+              "background": "blue",
+              "cursor": "",
+              "flex": "none",
+              "height": 15,
+              "margin": "1px 1px 0 0",
+              "opacity": 0,
+              "textAlign": "center",
+              "width": "15px",
+            }
+          }
+          title="0 "
+        >
+          <div
+            style={
+              Object {
+                "paddingTop": "4.0540540540540535px",
+              }
+            }
+          />
+        </div>
+        <div
+          onClick={[Function]}
+          style={
+            Object {
+              "background": "blue",
+              "cursor": "",
+              "flex": "none",
+              "height": 15,
+              "margin": "1px 1px 0 0",
+              "opacity": 0,
+              "textAlign": "center",
+              "width": "15px",
+            }
+          }
+          title="0 "
+        >
+          <div
+            style={
+              Object {
+                "paddingTop": "4.0540540540540535px",
+              }
+            }
+          />
+        </div>
+        <div
+          onClick={[Function]}
+          style={
+            Object {
+              "background": "blue",
+              "cursor": "",
+              "flex": "none",
+              "height": 15,
+              "margin": "1px 1px 0 0",
+              "opacity": 0,
+              "textAlign": "center",
+              "width": "15px",
+            }
+          }
+          title="0 "
+        >
+          <div
+            style={
+              Object {
+                "paddingTop": "4.0540540540540535px",
+              }
+            }
+          />
+        </div>
+        <div
+          onClick={[Function]}
+          style={
+            Object {
+              "background": "blue",
+              "cursor": "",
+              "flex": "none",
+              "height": 15,
+              "margin": "1px 1px 0 0",
+              "opacity": 0,
+              "textAlign": "center",
+              "width": "15px",
+            }
+          }
+          title="0 "
+        >
+          <div
+            style={
+              Object {
+                "paddingTop": "4.0540540540540535px",
+              }
+            }
+          />
+        </div>
+        <div
+          onClick={[Function]}
+          style={
+            Object {
+              "background": "blue",
+              "cursor": "",
+              "flex": "none",
+              "height": 15,
+              "margin": "1px 1px 0 0",
+              "opacity": 0,
+              "textAlign": "center",
+              "width": "15px",
+            }
+          }
+          title="0 "
+        >
+          <div
+            style={
+              Object {
+                "paddingTop": "4.0540540540540535px",
+              }
+            }
+          />
+        </div>
+      </div>
+      <div
+        style={
+          Object {
+            "display": "flex",
+          }
+        }
+      >
+        <div
+          style={
+            Object {
+              "flex": "0 0 40px",
+            }
+          }
+        >
+           
+          <div
+            style={
+              Object {
+                "paddingRight": "5px",
+                "paddingTop": "4.0540540540540535px",
+                "textAlign": "right",
+              }
+            }
+          >
+            22,00
+          </div>
+           
+        </div>
+        <div
+          onClick={[Function]}
+          style={
+            Object {
+              "background": "blue",
+              "cursor": "",
+              "flex": "none",
+              "height": 15,
+              "margin": "1px 1px 0 0",
+              "opacity": 0,
+              "textAlign": "center",
+              "width": "15px",
+            }
+          }
+          title="0 "
+        >
+          <div
+            style={
+              Object {
+                "paddingTop": "4.0540540540540535px",
+              }
+            }
+          />
+        </div>
+        <div
+          onClick={[Function]}
+          style={
+            Object {
+              "background": "blue",
+              "cursor": "",
+              "flex": "none",
+              "height": 15,
+              "margin": "1px 1px 0 0",
+              "opacity": 0,
+              "textAlign": "center",
+              "width": "15px",
+            }
+          }
+          title="0 "
+        >
+          <div
+            style={
+              Object {
+                "paddingTop": "4.0540540540540535px",
+              }
+            }
+          />
+        </div>
+        <div
+          onClick={[Function]}
+          style={
+            Object {
+              "background": "blue",
+              "cursor": "",
+              "flex": "none",
+              "height": 15,
+              "margin": "1px 1px 0 0",
+              "opacity": 0,
+              "textAlign": "center",
+              "width": "15px",
+            }
+          }
+          title="0 "
+        >
+          <div
+            style={
+              Object {
+                "paddingTop": "4.0540540540540535px",
+              }
+            }
+          />
+        </div>
+        <div
+          onClick={[Function]}
+          style={
+            Object {
+              "background": "blue",
+              "cursor": "",
+              "flex": "none",
+              "height": 15,
+              "margin": "1px 1px 0 0",
+              "opacity": 0,
+              "textAlign": "center",
+              "width": "15px",
+            }
+          }
+          title="0 "
+        >
+          <div
+            style={
+              Object {
+                "paddingTop": "4.0540540540540535px",
+              }
+            }
+          />
+        </div>
+        <div
+          onClick={[Function]}
+          style={
+            Object {
+              "background": "blue",
+              "cursor": "",
+              "flex": "none",
+              "height": 15,
+              "margin": "1px 1px 0 0",
+              "opacity": 0,
+              "textAlign": "center",
+              "width": "15px",
+            }
+          }
+          title="0 "
+        >
+          <div
+            style={
+              Object {
+                "paddingTop": "4.0540540540540535px",
+              }
+            }
+          />
+        </div>
+        <div
+          onClick={[Function]}
+          style={
+            Object {
+              "background": "blue",
+              "cursor": "",
+              "flex": "none",
+              "height": 15,
+              "margin": "1px 1px 0 0",
+              "opacity": 0,
+              "textAlign": "center",
+              "width": "15px",
+            }
+          }
+          title="0 "
+        >
+          <div
+            style={
+              Object {
+                "paddingTop": "4.0540540540540535px",
+              }
+            }
+          />
+        </div>
+        <div
+          onClick={[Function]}
+          style={
+            Object {
+              "background": "blue",
+              "cursor": "",
+              "flex": "none",
+              "height": 15,
+              "margin": "1px 1px 0 0",
+              "opacity": 0,
+              "textAlign": "center",
+              "width": "15px",
+            }
+          }
+          title="0 "
+        >
+          <div
+            style={
+              Object {
+                "paddingTop": "4.0540540540540535px",
+              }
+            }
+          />
+        </div>
+        <div
+          onClick={[Function]}
+          style={
+            Object {
+              "background": "blue",
+              "cursor": "",
+              "flex": "none",
+              "height": 15,
+              "margin": "1px 1px 0 0",
+              "opacity": 0,
+              "textAlign": "center",
+              "width": "15px",
+            }
+          }
+          title="0 "
+        >
+          <div
+            style={
+              Object {
+                "paddingTop": "4.0540540540540535px",
+              }
+            }
+          />
+        </div>
+        <div
+          onClick={[Function]}
+          style={
+            Object {
+              "background": "blue",
+              "cursor": "",
+              "flex": "none",
+              "height": 15,
+              "margin": "1px 1px 0 0",
+              "opacity": 0,
+              "textAlign": "center",
+              "width": "15px",
+            }
+          }
+          title="0 "
+        >
+          <div
+            style={
+              Object {
+                "paddingTop": "4.0540540540540535px",
+              }
+            }
+          />
+        </div>
+        <div
+          onClick={[Function]}
+          style={
+            Object {
+              "background": "blue",
+              "cursor": "",
+              "flex": "none",
+              "height": 15,
+              "margin": "1px 1px 0 0",
+              "opacity": 0,
+              "textAlign": "center",
+              "width": "15px",
+            }
+          }
+          title="0 "
+        >
+          <div
+            style={
+              Object {
+                "paddingTop": "4.0540540540540535px",
+              }
+            }
+          />
+        </div>
+        <div
+          onClick={[Function]}
+          style={
+            Object {
+              "background": "blue",
+              "cursor": "",
+              "flex": "none",
+              "height": 15,
+              "margin": "1px 1px 0 0",
+              "opacity": 0,
+              "textAlign": "center",
+              "width": "15px",
+            }
+          }
+          title="0 "
+        >
+          <div
+            style={
+              Object {
+                "paddingTop": "4.0540540540540535px",
+              }
+            }
+          />
+        </div>
+        <div
+          onClick={[Function]}
+          style={
+            Object {
+              "background": "blue",
+              "cursor": "",
+              "flex": "none",
+              "height": 15,
+              "margin": "1px 1px 0 0",
+              "opacity": 0,
+              "textAlign": "center",
+              "width": "15px",
+            }
+          }
+          title="0 "
+        >
+          <div
+            style={
+              Object {
+                "paddingTop": "4.0540540540540535px",
+              }
+            }
+          />
+        </div>
+      </div>
+      <div
+        style={
+          Object {
+            "display": "flex",
+          }
+        }
+      >
+        <div
+          style={
+            Object {
+              "flex": "0 0 40px",
+            }
+          }
+        >
+           
+          <div
+            style={
+              Object {
+                "paddingRight": "5px",
+                "paddingTop": "4.0540540540540535px",
+                "textAlign": "right",
+              }
+            }
+          >
+            21,00
+          </div>
+           
+        </div>
+        <div
+          onClick={[Function]}
+          style={
+            Object {
+              "background": "blue",
+              "cursor": "",
+              "flex": "none",
+              "height": 15,
+              "margin": "1px 1px 0 0",
+              "opacity": 0,
+              "textAlign": "center",
+              "width": "15px",
+            }
+          }
+          title="0 "
+        >
+          <div
+            style={
+              Object {
+                "paddingTop": "4.0540540540540535px",
+              }
+            }
+          />
+        </div>
+        <div
+          onClick={[Function]}
+          style={
+            Object {
+              "background": "blue",
+              "cursor": "",
+              "flex": "none",
+              "height": 15,
+              "margin": "1px 1px 0 0",
+              "opacity": 0,
+              "textAlign": "center",
+              "width": "15px",
+            }
+          }
+          title="0 "
+        >
+          <div
+            style={
+              Object {
+                "paddingTop": "4.0540540540540535px",
+              }
+            }
+          />
+        </div>
+        <div
+          onClick={[Function]}
+          style={
+            Object {
+              "background": "blue",
+              "cursor": "",
+              "flex": "none",
+              "height": 15,
+              "margin": "1px 1px 0 0",
+              "opacity": 0,
+              "textAlign": "center",
+              "width": "15px",
+            }
+          }
+          title="0 "
+        >
+          <div
+            style={
+              Object {
+                "paddingTop": "4.0540540540540535px",
+              }
+            }
+          />
+        </div>
+        <div
+          onClick={[Function]}
+          style={
+            Object {
+              "background": "blue",
+              "cursor": "",
+              "flex": "none",
+              "height": 15,
+              "margin": "1px 1px 0 0",
+              "opacity": 0,
+              "textAlign": "center",
+              "width": "15px",
+            }
+          }
+          title="0 "
+        >
+          <div
+            style={
+              Object {
+                "paddingTop": "4.0540540540540535px",
+              }
+            }
+          />
+        </div>
+        <div
+          onClick={[Function]}
+          style={
+            Object {
+              "background": "blue",
+              "cursor": "",
+              "flex": "none",
+              "height": 15,
+              "margin": "1px 1px 0 0",
+              "opacity": 0,
+              "textAlign": "center",
+              "width": "15px",
+            }
+          }
+          title="0 "
+        >
+          <div
+            style={
+              Object {
+                "paddingTop": "4.0540540540540535px",
+              }
+            }
+          />
+        </div>
+        <div
+          onClick={[Function]}
+          style={
+            Object {
+              "background": "blue",
+              "cursor": "",
+              "flex": "none",
+              "height": 15,
+              "margin": "1px 1px 0 0",
+              "opacity": 0,
+              "textAlign": "center",
+              "width": "15px",
+            }
+          }
+          title="0 "
+        >
+          <div
+            style={
+              Object {
+                "paddingTop": "4.0540540540540535px",
+              }
+            }
+          />
+        </div>
+        <div
+          onClick={[Function]}
+          style={
+            Object {
+              "background": "blue",
+              "cursor": "",
+              "flex": "none",
+              "height": 15,
+              "margin": "1px 1px 0 0",
+              "opacity": 0,
+              "textAlign": "center",
+              "width": "15px",
+            }
+          }
+          title="0 "
+        >
+          <div
+            style={
+              Object {
+                "paddingTop": "4.0540540540540535px",
+              }
+            }
+          />
+        </div>
+        <div
+          onClick={[Function]}
+          style={
+            Object {
+              "background": "blue",
+              "cursor": "",
+              "flex": "none",
+              "height": 15,
+              "margin": "1px 1px 0 0",
+              "opacity": 0,
+              "textAlign": "center",
+              "width": "15px",
+            }
+          }
+          title="0 "
+        >
+          <div
+            style={
+              Object {
+                "paddingTop": "4.0540540540540535px",
+              }
+            }
+          />
+        </div>
+        <div
+          onClick={[Function]}
+          style={
+            Object {
+              "background": "blue",
+              "cursor": "",
+              "flex": "none",
+              "height": 15,
+              "margin": "1px 1px 0 0",
+              "opacity": 0,
+              "textAlign": "center",
+              "width": "15px",
+            }
+          }
+          title="0 "
+        >
+          <div
+            style={
+              Object {
+                "paddingTop": "4.0540540540540535px",
+              }
+            }
+          />
+        </div>
+        <div
+          onClick={[Function]}
+          style={
+            Object {
+              "background": "blue",
+              "cursor": "",
+              "flex": "none",
+              "height": 15,
+              "margin": "1px 1px 0 0",
+              "opacity": 0,
+              "textAlign": "center",
+              "width": "15px",
+            }
+          }
+          title="0 "
+        >
+          <div
+            style={
+              Object {
+                "paddingTop": "4.0540540540540535px",
+              }
+            }
+          />
+        </div>
+        <div
+          onClick={[Function]}
+          style={
+            Object {
+              "background": "blue",
+              "cursor": "",
+              "flex": "none",
+              "height": 15,
+              "margin": "1px 1px 0 0",
+              "opacity": 0,
+              "textAlign": "center",
+              "width": "15px",
+            }
+          }
+          title="0 "
+        >
+          <div
+            style={
+              Object {
+                "paddingTop": "4.0540540540540535px",
+              }
+            }
+          />
+        </div>
+        <div
+          onClick={[Function]}
+          style={
+            Object {
+              "background": "blue",
+              "cursor": "",
+              "flex": "none",
+              "height": 15,
+              "margin": "1px 1px 0 0",
+              "opacity": 0,
+              "textAlign": "center",
+              "width": "15px",
+            }
+          }
+          title="0 "
+        >
+          <div
+            style={
+              Object {
+                "paddingTop": "4.0540540540540535px",
+              }
+            }
+          />
+        </div>
+      </div>
+      <div
+        style={
+          Object {
+            "display": "flex",
+          }
+        }
+      >
+        <div
+          style={
+            Object {
+              "flex": "0 0 40px",
+            }
+          }
+        >
+           
+          <div
+            style={
+              Object {
+                "paddingRight": "5px",
+                "paddingTop": "4.0540540540540535px",
+                "textAlign": "right",
+              }
+            }
+          >
+            20,00
+          </div>
+           
+        </div>
+        <div
+          onClick={[Function]}
+          style={
+            Object {
+              "background": "blue",
+              "cursor": "",
+              "flex": "none",
+              "height": 15,
+              "margin": "1px 1px 0 0",
+              "opacity": 0,
+              "textAlign": "center",
+              "width": "15px",
+            }
+          }
+          title="0 "
+        >
+          <div
+            style={
+              Object {
+                "paddingTop": "4.0540540540540535px",
+              }
+            }
+          />
+        </div>
+        <div
+          onClick={[Function]}
+          style={
+            Object {
+              "background": "blue",
+              "cursor": "",
+              "flex": "none",
+              "height": 15,
+              "margin": "1px 1px 0 0",
+              "opacity": 0,
+              "textAlign": "center",
+              "width": "15px",
+            }
+          }
+          title="0 "
+        >
+          <div
+            style={
+              Object {
+                "paddingTop": "4.0540540540540535px",
+              }
+            }
+          />
+        </div>
+        <div
+          onClick={[Function]}
+          style={
+            Object {
+              "background": "blue",
+              "cursor": "",
+              "flex": "none",
+              "height": 15,
+              "margin": "1px 1px 0 0",
+              "opacity": 0,
+              "textAlign": "center",
+              "width": "15px",
+            }
+          }
+          title="0 "
+        >
+          <div
+            style={
+              Object {
+                "paddingTop": "4.0540540540540535px",
+              }
+            }
+          />
+        </div>
+        <div
+          onClick={[Function]}
+          style={
+            Object {
+              "background": "blue",
+              "cursor": "",
+              "flex": "none",
+              "height": 15,
+              "margin": "1px 1px 0 0",
+              "opacity": 0,
+              "textAlign": "center",
+              "width": "15px",
+            }
+          }
+          title="0 "
+        >
+          <div
+            style={
+              Object {
+                "paddingTop": "4.0540540540540535px",
+              }
+            }
+          />
+        </div>
+        <div
+          onClick={[Function]}
+          style={
+            Object {
+              "background": "blue",
+              "cursor": "",
+              "flex": "none",
+              "height": 15,
+              "margin": "1px 1px 0 0",
+              "opacity": 0,
+              "textAlign": "center",
+              "width": "15px",
+            }
+          }
+          title="0 "
+        >
+          <div
+            style={
+              Object {
+                "paddingTop": "4.0540540540540535px",
+              }
+            }
+          />
+        </div>
+        <div
+          onClick={[Function]}
+          style={
+            Object {
+              "background": "blue",
+              "cursor": "",
+              "flex": "none",
+              "height": 15,
+              "margin": "1px 1px 0 0",
+              "opacity": 0,
+              "textAlign": "center",
+              "width": "15px",
+            }
+          }
+          title="0 "
+        >
+          <div
+            style={
+              Object {
+                "paddingTop": "4.0540540540540535px",
+              }
+            }
+          />
+        </div>
+        <div
+          onClick={[Function]}
+          style={
+            Object {
+              "background": "blue",
+              "cursor": "",
+              "flex": "none",
+              "height": 15,
+              "margin": "1px 1px 0 0",
+              "opacity": 0,
+              "textAlign": "center",
+              "width": "15px",
+            }
+          }
+          title="0 "
+        >
+          <div
+            style={
+              Object {
+                "paddingTop": "4.0540540540540535px",
+              }
+            }
+          />
+        </div>
+        <div
+          onClick={[Function]}
+          style={
+            Object {
+              "background": "blue",
+              "cursor": "",
+              "flex": "none",
+              "height": 15,
+              "margin": "1px 1px 0 0",
+              "opacity": 0,
+              "textAlign": "center",
+              "width": "15px",
+            }
+          }
+          title="0 "
+        >
+          <div
+            style={
+              Object {
+                "paddingTop": "4.0540540540540535px",
+              }
+            }
+          />
+        </div>
+        <div
+          onClick={[Function]}
+          style={
+            Object {
+              "background": "blue",
+              "cursor": "",
+              "flex": "none",
+              "height": 15,
+              "margin": "1px 1px 0 0",
+              "opacity": 0,
+              "textAlign": "center",
+              "width": "15px",
+            }
+          }
+          title="0 "
+        >
+          <div
+            style={
+              Object {
+                "paddingTop": "4.0540540540540535px",
+              }
+            }
+          />
+        </div>
+        <div
+          onClick={[Function]}
+          style={
+            Object {
+              "background": "blue",
+              "cursor": "",
+              "flex": "none",
+              "height": 15,
+              "margin": "1px 1px 0 0",
+              "opacity": 0,
+              "textAlign": "center",
+              "width": "15px",
+            }
+          }
+          title="0 "
+        >
+          <div
+            style={
+              Object {
+                "paddingTop": "4.0540540540540535px",
+              }
+            }
+          />
+        </div>
+        <div
+          onClick={[Function]}
+          style={
+            Object {
+              "background": "blue",
+              "cursor": "",
+              "flex": "none",
+              "height": 15,
+              "margin": "1px 1px 0 0",
+              "opacity": 0,
+              "textAlign": "center",
+              "width": "15px",
+            }
+          }
+          title="0 "
+        >
+          <div
+            style={
+              Object {
+                "paddingTop": "4.0540540540540535px",
+              }
+            }
+          />
+        </div>
+        <div
+          onClick={[Function]}
+          style={
+            Object {
+              "background": "blue",
+              "cursor": "",
+              "flex": "none",
+              "height": 15,
+              "margin": "1px 1px 0 0",
+              "opacity": 0,
+              "textAlign": "center",
+              "width": "15px",
+            }
+          }
+          title="0 "
+        >
+          <div
+            style={
+              Object {
+                "paddingTop": "4.0540540540540535px",
+              }
+            }
+          />
+        </div>
+      </div>
+      <div
+        style={
+          Object {
+            "display": "flex",
+          }
+        }
+      >
+        <div
+          style={
+            Object {
+              "flex": "0 0 40px",
+            }
+          }
+        >
+           
+          <div
+            style={
+              Object {
+                "paddingRight": "5px",
+                "paddingTop": "4.0540540540540535px",
+                "textAlign": "right",
+              }
+            }
+          >
+            19,00
+          </div>
+           
+        </div>
+        <div
+          onClick={[Function]}
+          style={
+            Object {
+              "background": "blue",
+              "cursor": "",
+              "flex": "none",
+              "height": 15,
+              "margin": "1px 1px 0 0",
+              "opacity": 0,
+              "textAlign": "center",
+              "width": "15px",
+            }
+          }
+          title="0 "
+        >
+          <div
+            style={
+              Object {
+                "paddingTop": "4.0540540540540535px",
+              }
+            }
+          />
+        </div>
+        <div
+          onClick={[Function]}
+          style={
+            Object {
+              "background": "blue",
+              "cursor": "",
+              "flex": "none",
+              "height": 15,
+              "margin": "1px 1px 0 0",
+              "opacity": 0,
+              "textAlign": "center",
+              "width": "15px",
+            }
+          }
+          title="0 "
+        >
+          <div
+            style={
+              Object {
+                "paddingTop": "4.0540540540540535px",
+              }
+            }
+          />
+        </div>
+        <div
+          onClick={[Function]}
+          style={
+            Object {
+              "background": "blue",
+              "cursor": "",
+              "flex": "none",
+              "height": 15,
+              "margin": "1px 1px 0 0",
+              "opacity": 0,
+              "textAlign": "center",
+              "width": "15px",
+            }
+          }
+          title="0 "
+        >
+          <div
+            style={
+              Object {
+                "paddingTop": "4.0540540540540535px",
+              }
+            }
+          />
+        </div>
+        <div
+          onClick={[Function]}
+          style={
+            Object {
+              "background": "blue",
+              "cursor": "",
+              "flex": "none",
+              "height": 15,
+              "margin": "1px 1px 0 0",
+              "opacity": 0,
+              "textAlign": "center",
+              "width": "15px",
+            }
+          }
+          title="0 "
+        >
+          <div
+            style={
+              Object {
+                "paddingTop": "4.0540540540540535px",
+              }
+            }
+          />
+        </div>
+        <div
+          onClick={[Function]}
+          style={
+            Object {
+              "background": "blue",
+              "cursor": "",
+              "flex": "none",
+              "height": 15,
+              "margin": "1px 1px 0 0",
+              "opacity": 0,
+              "textAlign": "center",
+              "width": "15px",
+            }
+          }
+          title="0 "
+        >
+          <div
+            style={
+              Object {
+                "paddingTop": "4.0540540540540535px",
+              }
+            }
+          />
+        </div>
+        <div
+          onClick={[Function]}
+          style={
+            Object {
+              "background": "blue",
+              "cursor": "",
+              "flex": "none",
+              "height": 15,
+              "margin": "1px 1px 0 0",
+              "opacity": 0,
+              "textAlign": "center",
+              "width": "15px",
+            }
+          }
+          title="0 "
+        >
+          <div
+            style={
+              Object {
+                "paddingTop": "4.0540540540540535px",
+              }
+            }
+          />
+        </div>
+        <div
+          onClick={[Function]}
+          style={
+            Object {
+              "background": "blue",
+              "cursor": "",
+              "flex": "none",
+              "height": 15,
+              "margin": "1px 1px 0 0",
+              "opacity": 0,
+              "textAlign": "center",
+              "width": "15px",
+            }
+          }
+          title="0 "
+        >
+          <div
+            style={
+              Object {
+                "paddingTop": "4.0540540540540535px",
+              }
+            }
+          />
+        </div>
+        <div
+          onClick={[Function]}
+          style={
+            Object {
+              "background": "blue",
+              "cursor": "",
+              "flex": "none",
+              "height": 15,
+              "margin": "1px 1px 0 0",
+              "opacity": 0,
+              "textAlign": "center",
+              "width": "15px",
+            }
+          }
+          title="0 "
+        >
+          <div
+            style={
+              Object {
+                "paddingTop": "4.0540540540540535px",
+              }
+            }
+          />
+        </div>
+        <div
+          onClick={[Function]}
+          style={
+            Object {
+              "background": "blue",
+              "cursor": "",
+              "flex": "none",
+              "height": 15,
+              "margin": "1px 1px 0 0",
+              "opacity": 0,
+              "textAlign": "center",
+              "width": "15px",
+            }
+          }
+          title="0 "
+        >
+          <div
+            style={
+              Object {
+                "paddingTop": "4.0540540540540535px",
+              }
+            }
+          />
+        </div>
+        <div
+          onClick={[Function]}
+          style={
+            Object {
+              "background": "blue",
+              "cursor": "",
+              "flex": "none",
+              "height": 15,
+              "margin": "1px 1px 0 0",
+              "opacity": 0,
+              "textAlign": "center",
+              "width": "15px",
+            }
+          }
+          title="0 "
+        >
+          <div
+            style={
+              Object {
+                "paddingTop": "4.0540540540540535px",
+              }
+            }
+          />
+        </div>
+        <div
+          onClick={[Function]}
+          style={
+            Object {
+              "background": "blue",
+              "cursor": "",
+              "flex": "none",
+              "height": 15,
+              "margin": "1px 1px 0 0",
+              "opacity": 0,
+              "textAlign": "center",
+              "width": "15px",
+            }
+          }
+          title="0 "
+        >
+          <div
+            style={
+              Object {
+                "paddingTop": "4.0540540540540535px",
+              }
+            }
+          />
+        </div>
+        <div
+          onClick={[Function]}
+          style={
+            Object {
+              "background": "blue",
+              "cursor": "",
+              "flex": "none",
+              "height": 15,
+              "margin": "1px 1px 0 0",
+              "opacity": 0,
+              "textAlign": "center",
+              "width": "15px",
+            }
+          }
+          title="0 "
+        >
+          <div
+            style={
+              Object {
+                "paddingTop": "4.0540540540540535px",
+              }
+            }
+          />
+        </div>
+      </div>
+      <div
+        style={
+          Object {
+            "display": "flex",
+          }
+        }
+      >
+        <div
+          style={
+            Object {
+              "flex": "0 0 40px",
+            }
+          }
+        >
+           
+          <div
+            style={
+              Object {
+                "paddingRight": "5px",
+                "paddingTop": "4.0540540540540535px",
+                "textAlign": "right",
+              }
+            }
+          >
+            18,00
+          </div>
+           
+        </div>
+        <div
+          onClick={[Function]}
+          style={
+            Object {
+              "background": "blue",
+              "cursor": "",
+              "flex": "none",
+              "height": 15,
+              "margin": "1px 1px 0 0",
+              "opacity": 0,
+              "textAlign": "center",
+              "width": "15px",
+            }
+          }
+          title="0 "
+        >
+          <div
+            style={
+              Object {
+                "paddingTop": "4.0540540540540535px",
+              }
+            }
+          />
+        </div>
+        <div
+          onClick={[Function]}
+          style={
+            Object {
+              "background": "blue",
+              "cursor": "",
+              "flex": "none",
+              "height": 15,
+              "margin": "1px 1px 0 0",
+              "opacity": 0,
+              "textAlign": "center",
+              "width": "15px",
+            }
+          }
+          title="0 "
+        >
+          <div
+            style={
+              Object {
+                "paddingTop": "4.0540540540540535px",
+              }
+            }
+          />
+        </div>
+        <div
+          onClick={[Function]}
+          style={
+            Object {
+              "background": "blue",
+              "cursor": "",
+              "flex": "none",
+              "height": 15,
+              "margin": "1px 1px 0 0",
+              "opacity": 0,
+              "textAlign": "center",
+              "width": "15px",
+            }
+          }
+          title="0 "
+        >
+          <div
+            style={
+              Object {
+                "paddingTop": "4.0540540540540535px",
+              }
+            }
+          />
+        </div>
+        <div
+          onClick={[Function]}
+          style={
+            Object {
+              "background": "blue",
+              "cursor": "",
+              "flex": "none",
+              "height": 15,
+              "margin": "1px 1px 0 0",
+              "opacity": 0,
+              "textAlign": "center",
+              "width": "15px",
+            }
+          }
+          title="0 "
+        >
+          <div
+            style={
+              Object {
+                "paddingTop": "4.0540540540540535px",
+              }
+            }
+          />
+        </div>
+        <div
+          onClick={[Function]}
+          style={
+            Object {
+              "background": "blue",
+              "cursor": "",
+              "flex": "none",
+              "height": 15,
+              "margin": "1px 1px 0 0",
+              "opacity": 0,
+              "textAlign": "center",
+              "width": "15px",
+            }
+          }
+          title="0 "
+        >
+          <div
+            style={
+              Object {
+                "paddingTop": "4.0540540540540535px",
+              }
+            }
+          />
+        </div>
+        <div
+          onClick={[Function]}
+          style={
+            Object {
+              "background": "blue",
+              "cursor": "",
+              "flex": "none",
+              "height": 15,
+              "margin": "1px 1px 0 0",
+              "opacity": 0,
+              "textAlign": "center",
+              "width": "15px",
+            }
+          }
+          title="0 "
+        >
+          <div
+            style={
+              Object {
+                "paddingTop": "4.0540540540540535px",
+              }
+            }
+          />
+        </div>
+        <div
+          onClick={[Function]}
+          style={
+            Object {
+              "background": "blue",
+              "cursor": "",
+              "flex": "none",
+              "height": 15,
+              "margin": "1px 1px 0 0",
+              "opacity": 0,
+              "textAlign": "center",
+              "width": "15px",
+            }
+          }
+          title="0 "
+        >
+          <div
+            style={
+              Object {
+                "paddingTop": "4.0540540540540535px",
+              }
+            }
+          />
+        </div>
+        <div
+          onClick={[Function]}
+          style={
+            Object {
+              "background": "blue",
+              "cursor": "",
+              "flex": "none",
+              "height": 15,
+              "margin": "1px 1px 0 0",
+              "opacity": 0,
+              "textAlign": "center",
+              "width": "15px",
+            }
+          }
+          title="0 "
+        >
+          <div
+            style={
+              Object {
+                "paddingTop": "4.0540540540540535px",
+              }
+            }
+          />
+        </div>
+        <div
+          onClick={[Function]}
+          style={
+            Object {
+              "background": "blue",
+              "cursor": "",
+              "flex": "none",
+              "height": 15,
+              "margin": "1px 1px 0 0",
+              "opacity": 0,
+              "textAlign": "center",
+              "width": "15px",
+            }
+          }
+          title="0 "
+        >
+          <div
+            style={
+              Object {
+                "paddingTop": "4.0540540540540535px",
+              }
+            }
+          />
+        </div>
+        <div
+          onClick={[Function]}
+          style={
+            Object {
+              "background": "blue",
+              "cursor": "",
+              "flex": "none",
+              "height": 15,
+              "margin": "1px 1px 0 0",
+              "opacity": 0,
+              "textAlign": "center",
+              "width": "15px",
+            }
+          }
+          title="0 "
+        >
+          <div
+            style={
+              Object {
+                "paddingTop": "4.0540540540540535px",
+              }
+            }
+          />
+        </div>
+        <div
+          onClick={[Function]}
+          style={
+            Object {
+              "background": "blue",
+              "cursor": "",
+              "flex": "none",
+              "height": 15,
+              "margin": "1px 1px 0 0",
+              "opacity": 0,
+              "textAlign": "center",
+              "width": "15px",
+            }
+          }
+          title="0 "
+        >
+          <div
+            style={
+              Object {
+                "paddingTop": "4.0540540540540535px",
+              }
+            }
+          />
+        </div>
+        <div
+          onClick={[Function]}
+          style={
+            Object {
+              "background": "blue",
+              "cursor": "",
+              "flex": "none",
+              "height": 15,
+              "margin": "1px 1px 0 0",
+              "opacity": 0,
+              "textAlign": "center",
+              "width": "15px",
+            }
+          }
+          title="0 "
+        >
+          <div
+            style={
+              Object {
+                "paddingTop": "4.0540540540540535px",
+              }
+            }
+          />
+        </div>
+      </div>
+      <div
+        style={
+          Object {
+            "display": "flex",
+          }
+        }
+      >
+        <div
+          style={
+            Object {
+              "flex": "0 0 40px",
+            }
+          }
+        >
+           
+          <div
+            style={
+              Object {
+                "paddingRight": "5px",
+                "paddingTop": "4.0540540540540535px",
+                "textAlign": "right",
+              }
+            }
+          >
+            17,00
+          </div>
+           
+        </div>
+        <div
+          onClick={[Function]}
+          style={
+            Object {
+              "background": "blue",
+              "cursor": "",
+              "flex": "none",
+              "height": 15,
+              "margin": "1px 1px 0 0",
+              "opacity": 0,
+              "textAlign": "center",
+              "width": "15px",
+            }
+          }
+          title="0 "
+        >
+          <div
+            style={
+              Object {
+                "paddingTop": "4.0540540540540535px",
+              }
+            }
+          />
+        </div>
+        <div
+          onClick={[Function]}
+          style={
+            Object {
+              "background": "blue",
+              "cursor": "",
+              "flex": "none",
+              "height": 15,
+              "margin": "1px 1px 0 0",
+              "opacity": 0,
+              "textAlign": "center",
+              "width": "15px",
+            }
+          }
+          title="0 "
+        >
+          <div
+            style={
+              Object {
+                "paddingTop": "4.0540540540540535px",
+              }
+            }
+          />
+        </div>
+        <div
+          onClick={[Function]}
+          style={
+            Object {
+              "background": "blue",
+              "cursor": "",
+              "flex": "none",
+              "height": 15,
+              "margin": "1px 1px 0 0",
+              "opacity": 0,
+              "textAlign": "center",
+              "width": "15px",
+            }
+          }
+          title="0 "
+        >
+          <div
+            style={
+              Object {
+                "paddingTop": "4.0540540540540535px",
+              }
+            }
+          />
+        </div>
+        <div
+          onClick={[Function]}
+          style={
+            Object {
+              "background": "blue",
+              "cursor": "",
+              "flex": "none",
+              "height": 15,
+              "margin": "1px 1px 0 0",
+              "opacity": 0,
+              "textAlign": "center",
+              "width": "15px",
+            }
+          }
+          title="0 "
+        >
+          <div
+            style={
+              Object {
+                "paddingTop": "4.0540540540540535px",
+              }
+            }
+          />
+        </div>
+        <div
+          onClick={[Function]}
+          style={
+            Object {
+              "background": "blue",
+              "cursor": "",
+              "flex": "none",
+              "height": 15,
+              "margin": "1px 1px 0 0",
+              "opacity": 0,
+              "textAlign": "center",
+              "width": "15px",
+            }
+          }
+          title="0 "
+        >
+          <div
+            style={
+              Object {
+                "paddingTop": "4.0540540540540535px",
+              }
+            }
+          />
+        </div>
+        <div
+          onClick={[Function]}
+          style={
+            Object {
+              "background": "blue",
+              "cursor": "",
+              "flex": "none",
+              "height": 15,
+              "margin": "1px 1px 0 0",
+              "opacity": 0,
+              "textAlign": "center",
+              "width": "15px",
+            }
+          }
+          title="0 "
+        >
+          <div
+            style={
+              Object {
+                "paddingTop": "4.0540540540540535px",
+              }
+            }
+          />
+        </div>
+        <div
+          onClick={[Function]}
+          style={
+            Object {
+              "background": "blue",
+              "cursor": "",
+              "flex": "none",
+              "height": 15,
+              "margin": "1px 1px 0 0",
+              "opacity": 0,
+              "textAlign": "center",
+              "width": "15px",
+            }
+          }
+          title="0 "
+        >
+          <div
+            style={
+              Object {
+                "paddingTop": "4.0540540540540535px",
+              }
+            }
+          />
+        </div>
+        <div
+          onClick={[Function]}
+          style={
+            Object {
+              "background": "blue",
+              "cursor": "",
+              "flex": "none",
+              "height": 15,
+              "margin": "1px 1px 0 0",
+              "opacity": 0,
+              "textAlign": "center",
+              "width": "15px",
+            }
+          }
+          title="0 "
+        >
+          <div
+            style={
+              Object {
+                "paddingTop": "4.0540540540540535px",
+              }
+            }
+          />
+        </div>
+        <div
+          onClick={[Function]}
+          style={
+            Object {
+              "background": "blue",
+              "cursor": "",
+              "flex": "none",
+              "height": 15,
+              "margin": "1px 1px 0 0",
+              "opacity": 0,
+              "textAlign": "center",
+              "width": "15px",
+            }
+          }
+          title="0 "
+        >
+          <div
+            style={
+              Object {
+                "paddingTop": "4.0540540540540535px",
+              }
+            }
+          />
+        </div>
+        <div
+          onClick={[Function]}
+          style={
+            Object {
+              "background": "blue",
+              "cursor": "",
+              "flex": "none",
+              "height": 15,
+              "margin": "1px 1px 0 0",
+              "opacity": 0,
+              "textAlign": "center",
+              "width": "15px",
+            }
+          }
+          title="0 "
+        >
+          <div
+            style={
+              Object {
+                "paddingTop": "4.0540540540540535px",
+              }
+            }
+          />
+        </div>
+        <div
+          onClick={[Function]}
+          style={
+            Object {
+              "background": "blue",
+              "cursor": "",
+              "flex": "none",
+              "height": 15,
+              "margin": "1px 1px 0 0",
+              "opacity": 0,
+              "textAlign": "center",
+              "width": "15px",
+            }
+          }
+          title="0 "
+        >
+          <div
+            style={
+              Object {
+                "paddingTop": "4.0540540540540535px",
+              }
+            }
+          />
+        </div>
+        <div
+          onClick={[Function]}
+          style={
+            Object {
+              "background": "blue",
+              "cursor": "",
+              "flex": "none",
+              "height": 15,
+              "margin": "1px 1px 0 0",
+              "opacity": 0,
+              "textAlign": "center",
+              "width": "15px",
+            }
+          }
+          title="0 "
+        >
+          <div
+            style={
+              Object {
+                "paddingTop": "4.0540540540540535px",
+              }
+            }
+          />
+        </div>
+      </div>
+      <div
+        style={
+          Object {
+            "display": "flex",
+          }
+        }
+      >
+        <div
+          style={
+            Object {
+              "flex": "0 0 40px",
+            }
+          }
+        >
+           
+          <div
+            style={
+              Object {
+                "paddingRight": "5px",
+                "paddingTop": "4.0540540540540535px",
+                "textAlign": "right",
+              }
+            }
+          >
+            16,00
+          </div>
+           
+        </div>
+        <div
+          onClick={[Function]}
+          style={
+            Object {
+              "background": "blue",
+              "cursor": "",
+              "flex": "none",
+              "height": 15,
+              "margin": "1px 1px 0 0",
+              "opacity": 0,
+              "textAlign": "center",
+              "width": "15px",
+            }
+          }
+          title="0 "
+        >
+          <div
+            style={
+              Object {
+                "paddingTop": "4.0540540540540535px",
+              }
+            }
+          />
+        </div>
+        <div
+          onClick={[Function]}
+          style={
+            Object {
+              "background": "blue",
+              "cursor": "",
+              "flex": "none",
+              "height": 15,
+              "margin": "1px 1px 0 0",
+              "opacity": 0,
+              "textAlign": "center",
+              "width": "15px",
+            }
+          }
+          title="0 "
+        >
+          <div
+            style={
+              Object {
+                "paddingTop": "4.0540540540540535px",
+              }
+            }
+          />
+        </div>
+        <div
+          onClick={[Function]}
+          style={
+            Object {
+              "background": "blue",
+              "cursor": "",
+              "flex": "none",
+              "height": 15,
+              "margin": "1px 1px 0 0",
+              "opacity": 0,
+              "textAlign": "center",
+              "width": "15px",
+            }
+          }
+          title="0 "
+        >
+          <div
+            style={
+              Object {
+                "paddingTop": "4.0540540540540535px",
+              }
+            }
+          />
+        </div>
+        <div
+          onClick={[Function]}
+          style={
+            Object {
+              "background": "blue",
+              "cursor": "",
+              "flex": "none",
+              "height": 15,
+              "margin": "1px 1px 0 0",
+              "opacity": 0,
+              "textAlign": "center",
+              "width": "15px",
+            }
+          }
+          title="0 "
+        >
+          <div
+            style={
+              Object {
+                "paddingTop": "4.0540540540540535px",
+              }
+            }
+          />
+        </div>
+        <div
+          onClick={[Function]}
+          style={
+            Object {
+              "background": "blue",
+              "cursor": "",
+              "flex": "none",
+              "height": 15,
+              "margin": "1px 1px 0 0",
+              "opacity": 0,
+              "textAlign": "center",
+              "width": "15px",
+            }
+          }
+          title="0 "
+        >
+          <div
+            style={
+              Object {
+                "paddingTop": "4.0540540540540535px",
+              }
+            }
+          />
+        </div>
+        <div
+          onClick={[Function]}
+          style={
+            Object {
+              "background": "blue",
+              "cursor": "",
+              "flex": "none",
+              "height": 15,
+              "margin": "1px 1px 0 0",
+              "opacity": 0,
+              "textAlign": "center",
+              "width": "15px",
+            }
+          }
+          title="0 "
+        >
+          <div
+            style={
+              Object {
+                "paddingTop": "4.0540540540540535px",
+              }
+            }
+          />
+        </div>
+        <div
+          onClick={[Function]}
+          style={
+            Object {
+              "background": "blue",
+              "cursor": "",
+              "flex": "none",
+              "height": 15,
+              "margin": "1px 1px 0 0",
+              "opacity": 0,
+              "textAlign": "center",
+              "width": "15px",
+            }
+          }
+          title="0 "
+        >
+          <div
+            style={
+              Object {
+                "paddingTop": "4.0540540540540535px",
+              }
+            }
+          />
+        </div>
+        <div
+          onClick={[Function]}
+          style={
+            Object {
+              "background": "blue",
+              "cursor": "",
+              "flex": "none",
+              "height": 15,
+              "margin": "1px 1px 0 0",
+              "opacity": 0,
+              "textAlign": "center",
+              "width": "15px",
+            }
+          }
+          title="0 "
+        >
+          <div
+            style={
+              Object {
+                "paddingTop": "4.0540540540540535px",
+              }
+            }
+          />
+        </div>
+        <div
+          onClick={[Function]}
+          style={
+            Object {
+              "background": "blue",
+              "cursor": "",
+              "flex": "none",
+              "height": 15,
+              "margin": "1px 1px 0 0",
+              "opacity": 0,
+              "textAlign": "center",
+              "width": "15px",
+            }
+          }
+          title="0 "
+        >
+          <div
+            style={
+              Object {
+                "paddingTop": "4.0540540540540535px",
+              }
+            }
+          />
+        </div>
+        <div
+          onClick={[Function]}
+          style={
+            Object {
+              "background": "blue",
+              "cursor": "",
+              "flex": "none",
+              "height": 15,
+              "margin": "1px 1px 0 0",
+              "opacity": 0,
+              "textAlign": "center",
+              "width": "15px",
+            }
+          }
+          title="0 "
+        >
+          <div
+            style={
+              Object {
+                "paddingTop": "4.0540540540540535px",
+              }
+            }
+          />
+        </div>
+        <div
+          onClick={[Function]}
+          style={
+            Object {
+              "background": "blue",
+              "cursor": "",
+              "flex": "none",
+              "height": 15,
+              "margin": "1px 1px 0 0",
+              "opacity": 0,
+              "textAlign": "center",
+              "width": "15px",
+            }
+          }
+          title="0 "
+        >
+          <div
+            style={
+              Object {
+                "paddingTop": "4.0540540540540535px",
+              }
+            }
+          />
+        </div>
+        <div
+          onClick={[Function]}
+          style={
+            Object {
+              "background": "blue",
+              "cursor": "",
+              "flex": "none",
+              "height": 15,
+              "margin": "1px 1px 0 0",
+              "opacity": 0,
+              "textAlign": "center",
+              "width": "15px",
+            }
+          }
+          title="0 "
+        >
+          <div
+            style={
+              Object {
+                "paddingTop": "4.0540540540540535px",
+              }
+            }
+          />
+        </div>
+      </div>
+      <div
+        style={
+          Object {
+            "display": "flex",
+          }
+        }
+      >
+        <div
+          style={
+            Object {
+              "flex": "0 0 40px",
+            }
+          }
+        >
+           
+          <div
+            style={
+              Object {
+                "paddingRight": "5px",
+                "paddingTop": "4.0540540540540535px",
+                "textAlign": "right",
+              }
+            }
+          >
+            15,00
+          </div>
+           
+        </div>
+        <div
+          onClick={[Function]}
+          style={
+            Object {
+              "background": "blue",
+              "cursor": "",
+              "flex": "none",
+              "height": 15,
+              "margin": "1px 1px 0 0",
+              "opacity": 0,
+              "textAlign": "center",
+              "width": "15px",
+            }
+          }
+          title="0 "
+        >
+          <div
+            style={
+              Object {
+                "paddingTop": "4.0540540540540535px",
+              }
+            }
+          />
+        </div>
+        <div
+          onClick={[Function]}
+          style={
+            Object {
+              "background": "blue",
+              "cursor": "",
+              "flex": "none",
+              "height": 15,
+              "margin": "1px 1px 0 0",
+              "opacity": 0,
+              "textAlign": "center",
+              "width": "15px",
+            }
+          }
+          title="0 "
+        >
+          <div
+            style={
+              Object {
+                "paddingTop": "4.0540540540540535px",
+              }
+            }
+          />
+        </div>
+        <div
+          onClick={[Function]}
+          style={
+            Object {
+              "background": "blue",
+              "cursor": "",
+              "flex": "none",
+              "height": 15,
+              "margin": "1px 1px 0 0",
+              "opacity": 0,
+              "textAlign": "center",
+              "width": "15px",
+            }
+          }
+          title="0 "
+        >
+          <div
+            style={
+              Object {
+                "paddingTop": "4.0540540540540535px",
+              }
+            }
+          />
+        </div>
+        <div
+          onClick={[Function]}
+          style={
+            Object {
+              "background": "blue",
+              "cursor": "",
+              "flex": "none",
+              "height": 15,
+              "margin": "1px 1px 0 0",
+              "opacity": 0,
+              "textAlign": "center",
+              "width": "15px",
+            }
+          }
+          title="0 "
+        >
+          <div
+            style={
+              Object {
+                "paddingTop": "4.0540540540540535px",
+              }
+            }
+          />
+        </div>
+        <div
+          onClick={[Function]}
+          style={
+            Object {
+              "background": "blue",
+              "cursor": "",
+              "flex": "none",
+              "height": 15,
+              "margin": "1px 1px 0 0",
+              "opacity": 0,
+              "textAlign": "center",
+              "width": "15px",
+            }
+          }
+          title="0 "
+        >
+          <div
+            style={
+              Object {
+                "paddingTop": "4.0540540540540535px",
+              }
+            }
+          />
+        </div>
+        <div
+          onClick={[Function]}
+          style={
+            Object {
+              "background": "blue",
+              "cursor": "",
+              "flex": "none",
+              "height": 15,
+              "margin": "1px 1px 0 0",
+              "opacity": 0,
+              "textAlign": "center",
+              "width": "15px",
+            }
+          }
+          title="0 "
+        >
+          <div
+            style={
+              Object {
+                "paddingTop": "4.0540540540540535px",
+              }
+            }
+          />
+        </div>
+        <div
+          onClick={[Function]}
+          style={
+            Object {
+              "background": "blue",
+              "cursor": "",
+              "flex": "none",
+              "height": 15,
+              "margin": "1px 1px 0 0",
+              "opacity": 0,
+              "textAlign": "center",
+              "width": "15px",
+            }
+          }
+          title="0 "
+        >
+          <div
+            style={
+              Object {
+                "paddingTop": "4.0540540540540535px",
+              }
+            }
+          />
+        </div>
+        <div
+          onClick={[Function]}
+          style={
+            Object {
+              "background": "blue",
+              "cursor": "",
+              "flex": "none",
+              "height": 15,
+              "margin": "1px 1px 0 0",
+              "opacity": 0,
+              "textAlign": "center",
+              "width": "15px",
+            }
+          }
+          title="0 "
+        >
+          <div
+            style={
+              Object {
+                "paddingTop": "4.0540540540540535px",
+              }
+            }
+          />
+        </div>
+        <div
+          onClick={[Function]}
+          style={
+            Object {
+              "background": "blue",
+              "cursor": "",
+              "flex": "none",
+              "height": 15,
+              "margin": "1px 1px 0 0",
+              "opacity": 0,
+              "textAlign": "center",
+              "width": "15px",
+            }
+          }
+          title="0 "
+        >
+          <div
+            style={
+              Object {
+                "paddingTop": "4.0540540540540535px",
+              }
+            }
+          />
+        </div>
+        <div
+          onClick={[Function]}
+          style={
+            Object {
+              "background": "blue",
+              "cursor": "",
+              "flex": "none",
+              "height": 15,
+              "margin": "1px 1px 0 0",
+              "opacity": 0,
+              "textAlign": "center",
+              "width": "15px",
+            }
+          }
+          title="0 "
+        >
+          <div
+            style={
+              Object {
+                "paddingTop": "4.0540540540540535px",
+              }
+            }
+          />
+        </div>
+        <div
+          onClick={[Function]}
+          style={
+            Object {
+              "background": "blue",
+              "cursor": "",
+              "flex": "none",
+              "height": 15,
+              "margin": "1px 1px 0 0",
+              "opacity": 0,
+              "textAlign": "center",
+              "width": "15px",
+            }
+          }
+          title="0 "
+        >
+          <div
+            style={
+              Object {
+                "paddingTop": "4.0540540540540535px",
+              }
+            }
+          />
+        </div>
+        <div
+          onClick={[Function]}
+          style={
+            Object {
+              "background": "blue",
+              "cursor": "",
+              "flex": "none",
+              "height": 15,
+              "margin": "1px 1px 0 0",
+              "opacity": 0,
+              "textAlign": "center",
+              "width": "15px",
+            }
+          }
+          title="0 "
+        >
+          <div
+            style={
+              Object {
+                "paddingTop": "4.0540540540540535px",
+              }
+            }
+          />
+        </div>
+      </div>
+      <div
+        style={
+          Object {
+            "display": "flex",
+          }
+        }
+      >
+        <div
+          style={
+            Object {
+              "flex": "0 0 40px",
+            }
+          }
+        >
+           
+          <div
+            style={
+              Object {
+                "paddingRight": "5px",
+                "paddingTop": "4.0540540540540535px",
+                "textAlign": "right",
+              }
+            }
+          >
+            14,00
+          </div>
+           
+        </div>
+        <div
+          onClick={[Function]}
+          style={
+            Object {
+              "background": "blue",
+              "cursor": "",
+              "flex": "none",
+              "height": 15,
+              "margin": "1px 1px 0 0",
+              "opacity": 0,
+              "textAlign": "center",
+              "width": "15px",
+            }
+          }
+          title="0 "
+        >
+          <div
+            style={
+              Object {
+                "paddingTop": "4.0540540540540535px",
+              }
+            }
+          />
+        </div>
+        <div
+          onClick={[Function]}
+          style={
+            Object {
+              "background": "blue",
+              "cursor": "",
+              "flex": "none",
+              "height": 15,
+              "margin": "1px 1px 0 0",
+              "opacity": 0,
+              "textAlign": "center",
+              "width": "15px",
+            }
+          }
+          title="0 "
+        >
+          <div
+            style={
+              Object {
+                "paddingTop": "4.0540540540540535px",
+              }
+            }
+          />
+        </div>
+        <div
+          onClick={[Function]}
+          style={
+            Object {
+              "background": "blue",
+              "cursor": "",
+              "flex": "none",
+              "height": 15,
+              "margin": "1px 1px 0 0",
+              "opacity": 0,
+              "textAlign": "center",
+              "width": "15px",
+            }
+          }
+          title="0 "
+        >
+          <div
+            style={
+              Object {
+                "paddingTop": "4.0540540540540535px",
+              }
+            }
+          />
+        </div>
+        <div
+          onClick={[Function]}
+          style={
+            Object {
+              "background": "blue",
+              "cursor": "",
+              "flex": "none",
+              "height": 15,
+              "margin": "1px 1px 0 0",
+              "opacity": 0,
+              "textAlign": "center",
+              "width": "15px",
+            }
+          }
+          title="0 "
+        >
+          <div
+            style={
+              Object {
+                "paddingTop": "4.0540540540540535px",
+              }
+            }
+          />
+        </div>
+        <div
+          onClick={[Function]}
+          style={
+            Object {
+              "background": "blue",
+              "cursor": "",
+              "flex": "none",
+              "height": 15,
+              "margin": "1px 1px 0 0",
+              "opacity": 0,
+              "textAlign": "center",
+              "width": "15px",
+            }
+          }
+          title="0 "
+        >
+          <div
+            style={
+              Object {
+                "paddingTop": "4.0540540540540535px",
+              }
+            }
+          />
+        </div>
+        <div
+          onClick={[Function]}
+          style={
+            Object {
+              "background": "blue",
+              "cursor": "",
+              "flex": "none",
+              "height": 15,
+              "margin": "1px 1px 0 0",
+              "opacity": 0,
+              "textAlign": "center",
+              "width": "15px",
+            }
+          }
+          title="0 "
+        >
+          <div
+            style={
+              Object {
+                "paddingTop": "4.0540540540540535px",
+              }
+            }
+          />
+        </div>
+        <div
+          onClick={[Function]}
+          style={
+            Object {
+              "background": "blue",
+              "cursor": "",
+              "flex": "none",
+              "height": 15,
+              "margin": "1px 1px 0 0",
+              "opacity": 0,
+              "textAlign": "center",
+              "width": "15px",
+            }
+          }
+          title="0 "
+        >
+          <div
+            style={
+              Object {
+                "paddingTop": "4.0540540540540535px",
+              }
+            }
+          />
+        </div>
+        <div
+          onClick={[Function]}
+          style={
+            Object {
+              "background": "blue",
+              "cursor": "",
+              "flex": "none",
+              "height": 15,
+              "margin": "1px 1px 0 0",
+              "opacity": 0,
+              "textAlign": "center",
+              "width": "15px",
+            }
+          }
+          title="0 "
+        >
+          <div
+            style={
+              Object {
+                "paddingTop": "4.0540540540540535px",
+              }
+            }
+          />
+        </div>
+        <div
+          onClick={[Function]}
+          style={
+            Object {
+              "background": "blue",
+              "cursor": "",
+              "flex": "none",
+              "height": 15,
+              "margin": "1px 1px 0 0",
+              "opacity": 0,
+              "textAlign": "center",
+              "width": "15px",
+            }
+          }
+          title="0 "
+        >
+          <div
+            style={
+              Object {
+                "paddingTop": "4.0540540540540535px",
+              }
+            }
+          />
+        </div>
+        <div
+          onClick={[Function]}
+          style={
+            Object {
+              "background": "blue",
+              "cursor": "",
+              "flex": "none",
+              "height": 15,
+              "margin": "1px 1px 0 0",
+              "opacity": 0,
+              "textAlign": "center",
+              "width": "15px",
+            }
+          }
+          title="0 "
+        >
+          <div
+            style={
+              Object {
+                "paddingTop": "4.0540540540540535px",
+              }
+            }
+          />
+        </div>
+        <div
+          onClick={[Function]}
+          style={
+            Object {
+              "background": "blue",
+              "cursor": "",
+              "flex": "none",
+              "height": 15,
+              "margin": "1px 1px 0 0",
+              "opacity": 0,
+              "textAlign": "center",
+              "width": "15px",
+            }
+          }
+          title="0 "
+        >
+          <div
+            style={
+              Object {
+                "paddingTop": "4.0540540540540535px",
+              }
+            }
+          />
+        </div>
+        <div
+          onClick={[Function]}
+          style={
+            Object {
+              "background": "blue",
+              "cursor": "",
+              "flex": "none",
+              "height": 15,
+              "margin": "1px 1px 0 0",
+              "opacity": 0,
+              "textAlign": "center",
+              "width": "15px",
+            }
+          }
+          title="0 "
+        >
+          <div
+            style={
+              Object {
+                "paddingTop": "4.0540540540540535px",
+              }
+            }
+          />
+        </div>
+      </div>
+      <div
+        style={
+          Object {
+            "display": "flex",
+          }
+        }
+      >
+        <div
+          style={
+            Object {
+              "flex": "0 0 40px",
+            }
+          }
+        >
+           
+          <div
+            style={
+              Object {
+                "paddingRight": "5px",
+                "paddingTop": "4.0540540540540535px",
+                "textAlign": "right",
+              }
+            }
+          >
+            13,00
+          </div>
+           
+        </div>
+        <div
+          onClick={[Function]}
+          style={
+            Object {
+              "background": "blue",
+              "cursor": "",
+              "flex": "none",
+              "height": 15,
+              "margin": "1px 1px 0 0",
+              "opacity": 0,
+              "textAlign": "center",
+              "width": "15px",
+            }
+          }
+          title="0 "
+        >
+          <div
+            style={
+              Object {
+                "paddingTop": "4.0540540540540535px",
+              }
+            }
+          />
+        </div>
+        <div
+          onClick={[Function]}
+          style={
+            Object {
+              "background": "blue",
+              "cursor": "",
+              "flex": "none",
+              "height": 15,
+              "margin": "1px 1px 0 0",
+              "opacity": 0,
+              "textAlign": "center",
+              "width": "15px",
+            }
+          }
+          title="0 "
+        >
+          <div
+            style={
+              Object {
+                "paddingTop": "4.0540540540540535px",
+              }
+            }
+          />
+        </div>
+        <div
+          onClick={[Function]}
+          style={
+            Object {
+              "background": "blue",
+              "cursor": "",
+              "flex": "none",
+              "height": 15,
+              "margin": "1px 1px 0 0",
+              "opacity": 0,
+              "textAlign": "center",
+              "width": "15px",
+            }
+          }
+          title="0 "
+        >
+          <div
+            style={
+              Object {
+                "paddingTop": "4.0540540540540535px",
+              }
+            }
+          />
+        </div>
+        <div
+          onClick={[Function]}
+          style={
+            Object {
+              "background": "blue",
+              "cursor": "",
+              "flex": "none",
+              "height": 15,
+              "margin": "1px 1px 0 0",
+              "opacity": 0,
+              "textAlign": "center",
+              "width": "15px",
+            }
+          }
+          title="0 "
+        >
+          <div
+            style={
+              Object {
+                "paddingTop": "4.0540540540540535px",
+              }
+            }
+          />
+        </div>
+        <div
+          onClick={[Function]}
+          style={
+            Object {
+              "background": "blue",
+              "cursor": "",
+              "flex": "none",
+              "height": 15,
+              "margin": "1px 1px 0 0",
+              "opacity": 0,
+              "textAlign": "center",
+              "width": "15px",
+            }
+          }
+          title="0 "
+        >
+          <div
+            style={
+              Object {
+                "paddingTop": "4.0540540540540535px",
+              }
+            }
+          />
+        </div>
+        <div
+          onClick={[Function]}
+          style={
+            Object {
+              "background": "blue",
+              "cursor": "",
+              "flex": "none",
+              "height": 15,
+              "margin": "1px 1px 0 0",
+              "opacity": 0,
+              "textAlign": "center",
+              "width": "15px",
+            }
+          }
+          title="0 "
+        >
+          <div
+            style={
+              Object {
+                "paddingTop": "4.0540540540540535px",
+              }
+            }
+          />
+        </div>
+        <div
+          onClick={[Function]}
+          style={
+            Object {
+              "background": "blue",
+              "cursor": "",
+              "flex": "none",
+              "height": 15,
+              "margin": "1px 1px 0 0",
+              "opacity": 0,
+              "textAlign": "center",
+              "width": "15px",
+            }
+          }
+          title="0 "
+        >
+          <div
+            style={
+              Object {
+                "paddingTop": "4.0540540540540535px",
+              }
+            }
+          />
+        </div>
+        <div
+          onClick={[Function]}
+          style={
+            Object {
+              "background": "blue",
+              "cursor": "",
+              "flex": "none",
+              "height": 15,
+              "margin": "1px 1px 0 0",
+              "opacity": 0,
+              "textAlign": "center",
+              "width": "15px",
+            }
+          }
+          title="0 "
+        >
+          <div
+            style={
+              Object {
+                "paddingTop": "4.0540540540540535px",
+              }
+            }
+          />
+        </div>
+        <div
+          onClick={[Function]}
+          style={
+            Object {
+              "background": "blue",
+              "cursor": "",
+              "flex": "none",
+              "height": 15,
+              "margin": "1px 1px 0 0",
+              "opacity": 0,
+              "textAlign": "center",
+              "width": "15px",
+            }
+          }
+          title="0 "
+        >
+          <div
+            style={
+              Object {
+                "paddingTop": "4.0540540540540535px",
+              }
+            }
+          />
+        </div>
+        <div
+          onClick={[Function]}
+          style={
+            Object {
+              "background": "blue",
+              "cursor": "",
+              "flex": "none",
+              "height": 15,
+              "margin": "1px 1px 0 0",
+              "opacity": 0,
+              "textAlign": "center",
+              "width": "15px",
+            }
+          }
+          title="0 "
+        >
+          <div
+            style={
+              Object {
+                "paddingTop": "4.0540540540540535px",
+              }
+            }
+          />
+        </div>
+        <div
+          onClick={[Function]}
+          style={
+            Object {
+              "background": "blue",
+              "cursor": "",
+              "flex": "none",
+              "height": 15,
+              "margin": "1px 1px 0 0",
+              "opacity": 0,
+              "textAlign": "center",
+              "width": "15px",
+            }
+          }
+          title="0 "
+        >
+          <div
+            style={
+              Object {
+                "paddingTop": "4.0540540540540535px",
+              }
+            }
+          />
+        </div>
+        <div
+          onClick={[Function]}
+          style={
+            Object {
+              "background": "blue",
+              "cursor": "",
+              "flex": "none",
+              "height": 15,
+              "margin": "1px 1px 0 0",
+              "opacity": 0,
+              "textAlign": "center",
+              "width": "15px",
+            }
+          }
+          title="0 "
+        >
+          <div
+            style={
+              Object {
+                "paddingTop": "4.0540540540540535px",
+              }
+            }
+          />
+        </div>
+      </div>
+      <div
+        style={
+          Object {
+            "display": "flex",
+          }
+        }
+      >
+        <div
+          style={
+            Object {
+              "flex": "0 0 40px",
+            }
+          }
+        >
+           
+          <div
+            style={
+              Object {
+                "paddingRight": "5px",
+                "paddingTop": "4.0540540540540535px",
+                "textAlign": "right",
+              }
+            }
+          >
+            12,00
+          </div>
+           
+        </div>
+        <div
+          onClick={[Function]}
+          style={
+            Object {
+              "background": "blue",
+              "cursor": "",
+              "flex": "none",
+              "height": 15,
+              "margin": "1px 1px 0 0",
+              "opacity": 0,
+              "textAlign": "center",
+              "width": "15px",
+            }
+          }
+          title="0 "
+        >
+          <div
+            style={
+              Object {
+                "paddingTop": "4.0540540540540535px",
+              }
+            }
+          />
+        </div>
+        <div
+          onClick={[Function]}
+          style={
+            Object {
+              "background": "blue",
+              "cursor": "",
+              "flex": "none",
+              "height": 15,
+              "margin": "1px 1px 0 0",
+              "opacity": 0,
+              "textAlign": "center",
+              "width": "15px",
+            }
+          }
+          title="0 "
+        >
+          <div
+            style={
+              Object {
+                "paddingTop": "4.0540540540540535px",
+              }
+            }
+          />
+        </div>
+        <div
+          onClick={[Function]}
+          style={
+            Object {
+              "background": "blue",
+              "cursor": "",
+              "flex": "none",
+              "height": 15,
+              "margin": "1px 1px 0 0",
+              "opacity": 0,
+              "textAlign": "center",
+              "width": "15px",
+            }
+          }
+          title="0 "
+        >
+          <div
+            style={
+              Object {
+                "paddingTop": "4.0540540540540535px",
+              }
+            }
+          />
+        </div>
+        <div
+          onClick={[Function]}
+          style={
+            Object {
+              "background": "blue",
+              "cursor": "",
+              "flex": "none",
+              "height": 15,
+              "margin": "1px 1px 0 0",
+              "opacity": 0,
+              "textAlign": "center",
+              "width": "15px",
+            }
+          }
+          title="0 "
+        >
+          <div
+            style={
+              Object {
+                "paddingTop": "4.0540540540540535px",
+              }
+            }
+          />
+        </div>
+        <div
+          onClick={[Function]}
+          style={
+            Object {
+              "background": "blue",
+              "cursor": "",
+              "flex": "none",
+              "height": 15,
+              "margin": "1px 1px 0 0",
+              "opacity": 0,
+              "textAlign": "center",
+              "width": "15px",
+            }
+          }
+          title="0 "
+        >
+          <div
+            style={
+              Object {
+                "paddingTop": "4.0540540540540535px",
+              }
+            }
+          />
+        </div>
+        <div
+          onClick={[Function]}
+          style={
+            Object {
+              "background": "blue",
+              "cursor": "",
+              "flex": "none",
+              "height": 15,
+              "margin": "1px 1px 0 0",
+              "opacity": 0,
+              "textAlign": "center",
+              "width": "15px",
+            }
+          }
+          title="0 "
+        >
+          <div
+            style={
+              Object {
+                "paddingTop": "4.0540540540540535px",
+              }
+            }
+          />
+        </div>
+        <div
+          onClick={[Function]}
+          style={
+            Object {
+              "background": "blue",
+              "cursor": "",
+              "flex": "none",
+              "height": 15,
+              "margin": "1px 1px 0 0",
+              "opacity": 0,
+              "textAlign": "center",
+              "width": "15px",
+            }
+          }
+          title="0 "
+        >
+          <div
+            style={
+              Object {
+                "paddingTop": "4.0540540540540535px",
+              }
+            }
+          />
+        </div>
+        <div
+          onClick={[Function]}
+          style={
+            Object {
+              "background": "blue",
+              "cursor": "",
+              "flex": "none",
+              "height": 15,
+              "margin": "1px 1px 0 0",
+              "opacity": 0,
+              "textAlign": "center",
+              "width": "15px",
+            }
+          }
+          title="0 "
+        >
+          <div
+            style={
+              Object {
+                "paddingTop": "4.0540540540540535px",
+              }
+            }
+          />
+        </div>
+        <div
+          onClick={[Function]}
+          style={
+            Object {
+              "background": "blue",
+              "cursor": "",
+              "flex": "none",
+              "height": 15,
+              "margin": "1px 1px 0 0",
+              "opacity": 0,
+              "textAlign": "center",
+              "width": "15px",
+            }
+          }
+          title="0 "
+        >
+          <div
+            style={
+              Object {
+                "paddingTop": "4.0540540540540535px",
+              }
+            }
+          />
+        </div>
+        <div
+          onClick={[Function]}
+          style={
+            Object {
+              "background": "blue",
+              "cursor": "",
+              "flex": "none",
+              "height": 15,
+              "margin": "1px 1px 0 0",
+              "opacity": 0,
+              "textAlign": "center",
+              "width": "15px",
+            }
+          }
+          title="0 "
+        >
+          <div
+            style={
+              Object {
+                "paddingTop": "4.0540540540540535px",
+              }
+            }
+          />
+        </div>
+        <div
+          onClick={[Function]}
+          style={
+            Object {
+              "background": "blue",
+              "cursor": "",
+              "flex": "none",
+              "height": 15,
+              "margin": "1px 1px 0 0",
+              "opacity": 0,
+              "textAlign": "center",
+              "width": "15px",
+            }
+          }
+          title="0 "
+        >
+          <div
+            style={
+              Object {
+                "paddingTop": "4.0540540540540535px",
+              }
+            }
+          />
+        </div>
+        <div
+          onClick={[Function]}
+          style={
+            Object {
+              "background": "blue",
+              "cursor": "",
+              "flex": "none",
+              "height": 15,
+              "margin": "1px 1px 0 0",
+              "opacity": 0,
+              "textAlign": "center",
+              "width": "15px",
+            }
+          }
+          title="0 "
+        >
+          <div
+            style={
+              Object {
+                "paddingTop": "4.0540540540540535px",
+              }
+            }
+          />
+        </div>
+      </div>
+      <div
+        style={
+          Object {
+            "display": "flex",
+          }
+        }
+      >
+        <div
+          style={
+            Object {
+              "flex": "0 0 40px",
+            }
+          }
+        >
+           
+          <div
+            style={
+              Object {
+                "paddingRight": "5px",
+                "paddingTop": "4.0540540540540535px",
+                "textAlign": "right",
+              }
+            }
+          >
+            11,00
+          </div>
+           
+        </div>
+        <div
+          onClick={[Function]}
+          style={
+            Object {
+              "background": "blue",
+              "cursor": "",
+              "flex": "none",
+              "height": 15,
+              "margin": "1px 1px 0 0",
+              "opacity": 0,
+              "textAlign": "center",
+              "width": "15px",
+            }
+          }
+          title="0 "
+        >
+          <div
+            style={
+              Object {
+                "paddingTop": "4.0540540540540535px",
+              }
+            }
+          />
+        </div>
+        <div
+          onClick={[Function]}
+          style={
+            Object {
+              "background": "blue",
+              "cursor": "",
+              "flex": "none",
+              "height": 15,
+              "margin": "1px 1px 0 0",
+              "opacity": 0,
+              "textAlign": "center",
+              "width": "15px",
+            }
+          }
+          title="0 "
+        >
+          <div
+            style={
+              Object {
+                "paddingTop": "4.0540540540540535px",
+              }
+            }
+          />
+        </div>
+        <div
+          onClick={[Function]}
+          style={
+            Object {
+              "background": "blue",
+              "cursor": "",
+              "flex": "none",
+              "height": 15,
+              "margin": "1px 1px 0 0",
+              "opacity": 0,
+              "textAlign": "center",
+              "width": "15px",
+            }
+          }
+          title="0 "
+        >
+          <div
+            style={
+              Object {
+                "paddingTop": "4.0540540540540535px",
+              }
+            }
+          />
+        </div>
+        <div
+          onClick={[Function]}
+          style={
+            Object {
+              "background": "blue",
+              "cursor": "",
+              "flex": "none",
+              "height": 15,
+              "margin": "1px 1px 0 0",
+              "opacity": 0,
+              "textAlign": "center",
+              "width": "15px",
+            }
+          }
+          title="0 "
+        >
+          <div
+            style={
+              Object {
+                "paddingTop": "4.0540540540540535px",
+              }
+            }
+          />
+        </div>
+        <div
+          onClick={[Function]}
+          style={
+            Object {
+              "background": "blue",
+              "cursor": "",
+              "flex": "none",
+              "height": 15,
+              "margin": "1px 1px 0 0",
+              "opacity": 0,
+              "textAlign": "center",
+              "width": "15px",
+            }
+          }
+          title="0 "
+        >
+          <div
+            style={
+              Object {
+                "paddingTop": "4.0540540540540535px",
+              }
+            }
+          />
+        </div>
+        <div
+          onClick={[Function]}
+          style={
+            Object {
+              "background": "blue",
+              "cursor": "",
+              "flex": "none",
+              "height": 15,
+              "margin": "1px 1px 0 0",
+              "opacity": 0,
+              "textAlign": "center",
+              "width": "15px",
+            }
+          }
+          title="0 "
+        >
+          <div
+            style={
+              Object {
+                "paddingTop": "4.0540540540540535px",
+              }
+            }
+          />
+        </div>
+        <div
+          onClick={[Function]}
+          style={
+            Object {
+              "background": "blue",
+              "cursor": "",
+              "flex": "none",
+              "height": 15,
+              "margin": "1px 1px 0 0",
+              "opacity": 0,
+              "textAlign": "center",
+              "width": "15px",
+            }
+          }
+          title="0 "
+        >
+          <div
+            style={
+              Object {
+                "paddingTop": "4.0540540540540535px",
+              }
+            }
+          />
+        </div>
+        <div
+          onClick={[Function]}
+          style={
+            Object {
+              "background": "blue",
+              "cursor": "",
+              "flex": "none",
+              "height": 15,
+              "margin": "1px 1px 0 0",
+              "opacity": 0,
+              "textAlign": "center",
+              "width": "15px",
+            }
+          }
+          title="0 "
+        >
+          <div
+            style={
+              Object {
+                "paddingTop": "4.0540540540540535px",
+              }
+            }
+          />
+        </div>
+        <div
+          onClick={[Function]}
+          style={
+            Object {
+              "background": "blue",
+              "cursor": "",
+              "flex": "none",
+              "height": 15,
+              "margin": "1px 1px 0 0",
+              "opacity": 0,
+              "textAlign": "center",
+              "width": "15px",
+            }
+          }
+          title="0 "
+        >
+          <div
+            style={
+              Object {
+                "paddingTop": "4.0540540540540535px",
+              }
+            }
+          />
+        </div>
+        <div
+          onClick={[Function]}
+          style={
+            Object {
+              "background": "blue",
+              "cursor": "",
+              "flex": "none",
+              "height": 15,
+              "margin": "1px 1px 0 0",
+              "opacity": 0,
+              "textAlign": "center",
+              "width": "15px",
+            }
+          }
+          title="0 "
+        >
+          <div
+            style={
+              Object {
+                "paddingTop": "4.0540540540540535px",
+              }
+            }
+          />
+        </div>
+        <div
+          onClick={[Function]}
+          style={
+            Object {
+              "background": "blue",
+              "cursor": "",
+              "flex": "none",
+              "height": 15,
+              "margin": "1px 1px 0 0",
+              "opacity": 0,
+              "textAlign": "center",
+              "width": "15px",
+            }
+          }
+          title="0 "
+        >
+          <div
+            style={
+              Object {
+                "paddingTop": "4.0540540540540535px",
+              }
+            }
+          />
+        </div>
+        <div
+          onClick={[Function]}
+          style={
+            Object {
+              "background": "blue",
+              "cursor": "",
+              "flex": "none",
+              "height": 15,
+              "margin": "1px 1px 0 0",
+              "opacity": 0,
+              "textAlign": "center",
+              "width": "15px",
+            }
+          }
+          title="0 "
+        >
+          <div
+            style={
+              Object {
+                "paddingTop": "4.0540540540540535px",
+              }
+            }
+          />
+        </div>
+      </div>
+      <div
+        style={
+          Object {
+            "display": "flex",
+          }
+        }
+      >
+        <div
+          style={
+            Object {
+              "flex": "0 0 40px",
+            }
+          }
+        >
+           
+          <div
+            style={
+              Object {
+                "paddingRight": "5px",
+                "paddingTop": "4.0540540540540535px",
+                "textAlign": "right",
+              }
+            }
+          >
+            10,00
+          </div>
+           
+        </div>
+        <div
+          onClick={[Function]}
+          style={
+            Object {
+              "background": "blue",
+              "cursor": "",
+              "flex": "none",
+              "height": 15,
+              "margin": "1px 1px 0 0",
+              "opacity": 0,
+              "textAlign": "center",
+              "width": "15px",
+            }
+          }
+          title="0 "
+        >
+          <div
+            style={
+              Object {
+                "paddingTop": "4.0540540540540535px",
+              }
+            }
+          />
+        </div>
+        <div
+          onClick={[Function]}
+          style={
+            Object {
+              "background": "blue",
+              "cursor": "",
+              "flex": "none",
+              "height": 15,
+              "margin": "1px 1px 0 0",
+              "opacity": 0,
+              "textAlign": "center",
+              "width": "15px",
+            }
+          }
+          title="0 "
+        >
+          <div
+            style={
+              Object {
+                "paddingTop": "4.0540540540540535px",
+              }
+            }
+          />
+        </div>
+        <div
+          onClick={[Function]}
+          style={
+            Object {
+              "background": "blue",
+              "cursor": "",
+              "flex": "none",
+              "height": 15,
+              "margin": "1px 1px 0 0",
+              "opacity": 0,
+              "textAlign": "center",
+              "width": "15px",
+            }
+          }
+          title="0 "
+        >
+          <div
+            style={
+              Object {
+                "paddingTop": "4.0540540540540535px",
+              }
+            }
+          />
+        </div>
+        <div
+          onClick={[Function]}
+          style={
+            Object {
+              "background": "blue",
+              "cursor": "",
+              "flex": "none",
+              "height": 15,
+              "margin": "1px 1px 0 0",
+              "opacity": 0,
+              "textAlign": "center",
+              "width": "15px",
+            }
+          }
+          title="0 "
+        >
+          <div
+            style={
+              Object {
+                "paddingTop": "4.0540540540540535px",
+              }
+            }
+          />
+        </div>
+        <div
+          onClick={[Function]}
+          style={
+            Object {
+              "background": "blue",
+              "cursor": "",
+              "flex": "none",
+              "height": 15,
+              "margin": "1px 1px 0 0",
+              "opacity": 0,
+              "textAlign": "center",
+              "width": "15px",
+            }
+          }
+          title="0 "
+        >
+          <div
+            style={
+              Object {
+                "paddingTop": "4.0540540540540535px",
+              }
+            }
+          />
+        </div>
+        <div
+          onClick={[Function]}
+          style={
+            Object {
+              "background": "blue",
+              "cursor": "",
+              "flex": "none",
+              "height": 15,
+              "margin": "1px 1px 0 0",
+              "opacity": 0,
+              "textAlign": "center",
+              "width": "15px",
+            }
+          }
+          title="0 "
+        >
+          <div
+            style={
+              Object {
+                "paddingTop": "4.0540540540540535px",
+              }
+            }
+          />
+        </div>
+        <div
+          onClick={[Function]}
+          style={
+            Object {
+              "background": "blue",
+              "cursor": "",
+              "flex": "none",
+              "height": 15,
+              "margin": "1px 1px 0 0",
+              "opacity": 0,
+              "textAlign": "center",
+              "width": "15px",
+            }
+          }
+          title="0 "
+        >
+          <div
+            style={
+              Object {
+                "paddingTop": "4.0540540540540535px",
+              }
+            }
+          />
+        </div>
+        <div
+          onClick={[Function]}
+          style={
+            Object {
+              "background": "blue",
+              "cursor": "",
+              "flex": "none",
+              "height": 15,
+              "margin": "1px 1px 0 0",
+              "opacity": 0,
+              "textAlign": "center",
+              "width": "15px",
+            }
+          }
+          title="0 "
+        >
+          <div
+            style={
+              Object {
+                "paddingTop": "4.0540540540540535px",
+              }
+            }
+          />
+        </div>
+        <div
+          onClick={[Function]}
+          style={
+            Object {
+              "background": "blue",
+              "cursor": "",
+              "flex": "none",
+              "height": 15,
+              "margin": "1px 1px 0 0",
+              "opacity": 0,
+              "textAlign": "center",
+              "width": "15px",
+            }
+          }
+          title="0 "
+        >
+          <div
+            style={
+              Object {
+                "paddingTop": "4.0540540540540535px",
+              }
+            }
+          />
+        </div>
+        <div
+          onClick={[Function]}
+          style={
+            Object {
+              "background": "blue",
+              "cursor": "",
+              "flex": "none",
+              "height": 15,
+              "margin": "1px 1px 0 0",
+              "opacity": 0,
+              "textAlign": "center",
+              "width": "15px",
+            }
+          }
+          title="0 "
+        >
+          <div
+            style={
+              Object {
+                "paddingTop": "4.0540540540540535px",
+              }
+            }
+          />
+        </div>
+        <div
+          onClick={[Function]}
+          style={
+            Object {
+              "background": "blue",
+              "cursor": "",
+              "flex": "none",
+              "height": 15,
+              "margin": "1px 1px 0 0",
+              "opacity": 0,
+              "textAlign": "center",
+              "width": "15px",
+            }
+          }
+          title="0 "
+        >
+          <div
+            style={
+              Object {
+                "paddingTop": "4.0540540540540535px",
+              }
+            }
+          />
+        </div>
+        <div
+          onClick={[Function]}
+          style={
+            Object {
+              "background": "blue",
+              "cursor": "",
+              "flex": "none",
+              "height": 15,
+              "margin": "1px 1px 0 0",
+              "opacity": 0,
+              "textAlign": "center",
+              "width": "15px",
+            }
+          }
+          title="0 "
+        >
+          <div
+            style={
+              Object {
+                "paddingTop": "4.0540540540540535px",
+              }
+            }
+          />
+        </div>
+      </div>
+      <div
+        style={
+          Object {
+            "display": "flex",
+          }
+        }
+      >
+        <div
+          style={
+            Object {
+              "flex": "0 0 40px",
+            }
+          }
+        >
+           
+          <div
+            style={
+              Object {
+                "paddingRight": "5px",
+                "paddingTop": "4.0540540540540535px",
+                "textAlign": "right",
+              }
+            }
+          >
+            09,00
+          </div>
+           
+        </div>
+        <div
+          onClick={[Function]}
+          style={
+            Object {
+              "background": "blue",
+              "cursor": "",
+              "flex": "none",
+              "height": 15,
+              "margin": "1px 1px 0 0",
+              "opacity": 0,
+              "textAlign": "center",
+              "width": "15px",
+            }
+          }
+          title="0 "
+        >
+          <div
+            style={
+              Object {
+                "paddingTop": "4.0540540540540535px",
+              }
+            }
+          />
+        </div>
+        <div
+          onClick={[Function]}
+          style={
+            Object {
+              "background": "blue",
+              "cursor": "",
+              "flex": "none",
+              "height": 15,
+              "margin": "1px 1px 0 0",
+              "opacity": 0,
+              "textAlign": "center",
+              "width": "15px",
+            }
+          }
+          title="0 "
+        >
+          <div
+            style={
+              Object {
+                "paddingTop": "4.0540540540540535px",
+              }
+            }
+          />
+        </div>
+        <div
+          onClick={[Function]}
+          style={
+            Object {
+              "background": "blue",
+              "cursor": "",
+              "flex": "none",
+              "height": 15,
+              "margin": "1px 1px 0 0",
+              "opacity": 0,
+              "textAlign": "center",
+              "width": "15px",
+            }
+          }
+          title="0 "
+        >
+          <div
+            style={
+              Object {
+                "paddingTop": "4.0540540540540535px",
+              }
+            }
+          />
+        </div>
+        <div
+          onClick={[Function]}
+          style={
+            Object {
+              "background": "blue",
+              "cursor": "",
+              "flex": "none",
+              "height": 15,
+              "margin": "1px 1px 0 0",
+              "opacity": 0,
+              "textAlign": "center",
+              "width": "15px",
+            }
+          }
+          title="0 "
+        >
+          <div
+            style={
+              Object {
+                "paddingTop": "4.0540540540540535px",
+              }
+            }
+          />
+        </div>
+        <div
+          onClick={[Function]}
+          style={
+            Object {
+              "background": "blue",
+              "cursor": "",
+              "flex": "none",
+              "height": 15,
+              "margin": "1px 1px 0 0",
+              "opacity": 0,
+              "textAlign": "center",
+              "width": "15px",
+            }
+          }
+          title="0 "
+        >
+          <div
+            style={
+              Object {
+                "paddingTop": "4.0540540540540535px",
+              }
+            }
+          />
+        </div>
+        <div
+          onClick={[Function]}
+          style={
+            Object {
+              "background": "blue",
+              "cursor": "",
+              "flex": "none",
+              "height": 15,
+              "margin": "1px 1px 0 0",
+              "opacity": 0,
+              "textAlign": "center",
+              "width": "15px",
+            }
+          }
+          title="0 "
+        >
+          <div
+            style={
+              Object {
+                "paddingTop": "4.0540540540540535px",
+              }
+            }
+          />
+        </div>
+        <div
+          onClick={[Function]}
+          style={
+            Object {
+              "background": "blue",
+              "cursor": "",
+              "flex": "none",
+              "height": 15,
+              "margin": "1px 1px 0 0",
+              "opacity": 0,
+              "textAlign": "center",
+              "width": "15px",
+            }
+          }
+          title="0 "
+        >
+          <div
+            style={
+              Object {
+                "paddingTop": "4.0540540540540535px",
+              }
+            }
+          />
+        </div>
+        <div
+          onClick={[Function]}
+          style={
+            Object {
+              "background": "blue",
+              "cursor": "",
+              "flex": "none",
+              "height": 15,
+              "margin": "1px 1px 0 0",
+              "opacity": 0,
+              "textAlign": "center",
+              "width": "15px",
+            }
+          }
+          title="0 "
+        >
+          <div
+            style={
+              Object {
+                "paddingTop": "4.0540540540540535px",
+              }
+            }
+          />
+        </div>
+        <div
+          onClick={[Function]}
+          style={
+            Object {
+              "background": "blue",
+              "cursor": "",
+              "flex": "none",
+              "height": 15,
+              "margin": "1px 1px 0 0",
+              "opacity": 0,
+              "textAlign": "center",
+              "width": "15px",
+            }
+          }
+          title="0 "
+        >
+          <div
+            style={
+              Object {
+                "paddingTop": "4.0540540540540535px",
+              }
+            }
+          />
+        </div>
+        <div
+          onClick={[Function]}
+          style={
+            Object {
+              "background": "blue",
+              "cursor": "",
+              "flex": "none",
+              "height": 15,
+              "margin": "1px 1px 0 0",
+              "opacity": 0,
+              "textAlign": "center",
+              "width": "15px",
+            }
+          }
+          title="0 "
+        >
+          <div
+            style={
+              Object {
+                "paddingTop": "4.0540540540540535px",
+              }
+            }
+          />
+        </div>
+        <div
+          onClick={[Function]}
+          style={
+            Object {
+              "background": "blue",
+              "cursor": "",
+              "flex": "none",
+              "height": 15,
+              "margin": "1px 1px 0 0",
+              "opacity": 0,
+              "textAlign": "center",
+              "width": "15px",
+            }
+          }
+          title="0 "
+        >
+          <div
+            style={
+              Object {
+                "paddingTop": "4.0540540540540535px",
+              }
+            }
+          />
+        </div>
+        <div
+          onClick={[Function]}
+          style={
+            Object {
+              "background": "blue",
+              "cursor": "",
+              "flex": "none",
+              "height": 15,
+              "margin": "1px 1px 0 0",
+              "opacity": 0,
+              "textAlign": "center",
+              "width": "15px",
+            }
+          }
+          title="0 "
+        >
+          <div
+            style={
+              Object {
+                "paddingTop": "4.0540540540540535px",
+              }
+            }
+          />
+        </div>
+      </div>
+      <div
+        style={
+          Object {
+            "display": "flex",
+          }
+        }
+      >
+        <div
+          style={
+            Object {
+              "flex": "0 0 40px",
+            }
+          }
+        >
+           
+          <div
+            style={
+              Object {
+                "paddingRight": "5px",
+                "paddingTop": "4.0540540540540535px",
+                "textAlign": "right",
+              }
+            }
+          >
+            08,00
+          </div>
+           
+        </div>
+        <div
+          onClick={[Function]}
+          style={
+            Object {
+              "background": "blue",
+              "cursor": "",
+              "flex": "none",
+              "height": 15,
+              "margin": "1px 1px 0 0",
+              "opacity": 0,
+              "textAlign": "center",
+              "width": "15px",
+            }
+          }
+          title="0 "
+        >
+          <div
+            style={
+              Object {
+                "paddingTop": "4.0540540540540535px",
+              }
+            }
+          />
+        </div>
+        <div
+          onClick={[Function]}
+          style={
+            Object {
+              "background": "blue",
+              "cursor": "",
+              "flex": "none",
+              "height": 15,
+              "margin": "1px 1px 0 0",
+              "opacity": 0,
+              "textAlign": "center",
+              "width": "15px",
+            }
+          }
+          title="0 "
+        >
+          <div
+            style={
+              Object {
+                "paddingTop": "4.0540540540540535px",
+              }
+            }
+          />
+        </div>
+        <div
+          onClick={[Function]}
+          style={
+            Object {
+              "background": "blue",
+              "cursor": "",
+              "flex": "none",
+              "height": 15,
+              "margin": "1px 1px 0 0",
+              "opacity": 0,
+              "textAlign": "center",
+              "width": "15px",
+            }
+          }
+          title="0 "
+        >
+          <div
+            style={
+              Object {
+                "paddingTop": "4.0540540540540535px",
+              }
+            }
+          />
+        </div>
+        <div
+          onClick={[Function]}
+          style={
+            Object {
+              "background": "blue",
+              "cursor": "",
+              "flex": "none",
+              "height": 15,
+              "margin": "1px 1px 0 0",
+              "opacity": 0,
+              "textAlign": "center",
+              "width": "15px",
+            }
+          }
+          title="0 "
+        >
+          <div
+            style={
+              Object {
+                "paddingTop": "4.0540540540540535px",
+              }
+            }
+          />
+        </div>
+        <div
+          onClick={[Function]}
+          style={
+            Object {
+              "background": "blue",
+              "cursor": "",
+              "flex": "none",
+              "height": 15,
+              "margin": "1px 1px 0 0",
+              "opacity": 0,
+              "textAlign": "center",
+              "width": "15px",
+            }
+          }
+          title="0 "
+        >
+          <div
+            style={
+              Object {
+                "paddingTop": "4.0540540540540535px",
+              }
+            }
+          />
+        </div>
+        <div
+          onClick={[Function]}
+          style={
+            Object {
+              "background": "blue",
+              "cursor": "",
+              "flex": "none",
+              "height": 15,
+              "margin": "1px 1px 0 0",
+              "opacity": 0,
+              "textAlign": "center",
+              "width": "15px",
+            }
+          }
+          title="0 "
+        >
+          <div
+            style={
+              Object {
+                "paddingTop": "4.0540540540540535px",
+              }
+            }
+          />
+        </div>
+        <div
+          onClick={[Function]}
+          style={
+            Object {
+              "background": "blue",
+              "cursor": "",
+              "flex": "none",
+              "height": 15,
+              "margin": "1px 1px 0 0",
+              "opacity": 0,
+              "textAlign": "center",
+              "width": "15px",
+            }
+          }
+          title="0 "
+        >
+          <div
+            style={
+              Object {
+                "paddingTop": "4.0540540540540535px",
+              }
+            }
+          />
+        </div>
+        <div
+          onClick={[Function]}
+          style={
+            Object {
+              "background": "blue",
+              "cursor": "",
+              "flex": "none",
+              "height": 15,
+              "margin": "1px 1px 0 0",
+              "opacity": 0,
+              "textAlign": "center",
+              "width": "15px",
+            }
+          }
+          title="0 "
+        >
+          <div
+            style={
+              Object {
+                "paddingTop": "4.0540540540540535px",
+              }
+            }
+          />
+        </div>
+        <div
+          onClick={[Function]}
+          style={
+            Object {
+              "background": "blue",
+              "cursor": "",
+              "flex": "none",
+              "height": 15,
+              "margin": "1px 1px 0 0",
+              "opacity": 0,
+              "textAlign": "center",
+              "width": "15px",
+            }
+          }
+          title="0 "
+        >
+          <div
+            style={
+              Object {
+                "paddingTop": "4.0540540540540535px",
+              }
+            }
+          />
+        </div>
+        <div
+          onClick={[Function]}
+          style={
+            Object {
+              "background": "blue",
+              "cursor": "",
+              "flex": "none",
+              "height": 15,
+              "margin": "1px 1px 0 0",
+              "opacity": 0,
+              "textAlign": "center",
+              "width": "15px",
+            }
+          }
+          title="0 "
+        >
+          <div
+            style={
+              Object {
+                "paddingTop": "4.0540540540540535px",
+              }
+            }
+          />
+        </div>
+        <div
+          onClick={[Function]}
+          style={
+            Object {
+              "background": "blue",
+              "cursor": "",
+              "flex": "none",
+              "height": 15,
+              "margin": "1px 1px 0 0",
+              "opacity": 0,
+              "textAlign": "center",
+              "width": "15px",
+            }
+          }
+          title="0 "
+        >
+          <div
+            style={
+              Object {
+                "paddingTop": "4.0540540540540535px",
+              }
+            }
+          />
+        </div>
+        <div
+          onClick={[Function]}
+          style={
+            Object {
+              "background": "blue",
+              "cursor": "",
+              "flex": "none",
+              "height": 15,
+              "margin": "1px 1px 0 0",
+              "opacity": 0,
+              "textAlign": "center",
+              "width": "15px",
+            }
+          }
+          title="0 "
+        >
+          <div
+            style={
+              Object {
+                "paddingTop": "4.0540540540540535px",
+              }
+            }
+          />
+        </div>
+      </div>
+      <div
+        style={
+          Object {
+            "display": "flex",
+          }
+        }
+      >
+        <div
+          style={
+            Object {
+              "flex": "0 0 40px",
+            }
+          }
+        >
+           
+          <div
+            style={
+              Object {
+                "paddingRight": "5px",
+                "paddingTop": "4.0540540540540535px",
+                "textAlign": "right",
+              }
+            }
+          >
+            07,00
+          </div>
+           
+        </div>
+        <div
+          onClick={[Function]}
+          style={
+            Object {
+              "background": "blue",
+              "cursor": "",
+              "flex": "none",
+              "height": 15,
+              "margin": "1px 1px 0 0",
+              "opacity": 0,
+              "textAlign": "center",
+              "width": "15px",
+            }
+          }
+          title="0 "
+        >
+          <div
+            style={
+              Object {
+                "paddingTop": "4.0540540540540535px",
+              }
+            }
+          />
+        </div>
+        <div
+          onClick={[Function]}
+          style={
+            Object {
+              "background": "blue",
+              "cursor": "",
+              "flex": "none",
+              "height": 15,
+              "margin": "1px 1px 0 0",
+              "opacity": 0,
+              "textAlign": "center",
+              "width": "15px",
+            }
+          }
+          title="0 "
+        >
+          <div
+            style={
+              Object {
+                "paddingTop": "4.0540540540540535px",
+              }
+            }
+          />
+        </div>
+        <div
+          onClick={[Function]}
+          style={
+            Object {
+              "background": "blue",
+              "cursor": "",
+              "flex": "none",
+              "height": 15,
+              "margin": "1px 1px 0 0",
+              "opacity": 0,
+              "textAlign": "center",
+              "width": "15px",
+            }
+          }
+          title="0 "
+        >
+          <div
+            style={
+              Object {
+                "paddingTop": "4.0540540540540535px",
+              }
+            }
+          />
+        </div>
+        <div
+          onClick={[Function]}
+          style={
+            Object {
+              "background": "blue",
+              "cursor": "",
+              "flex": "none",
+              "height": 15,
+              "margin": "1px 1px 0 0",
+              "opacity": 0,
+              "textAlign": "center",
+              "width": "15px",
+            }
+          }
+          title="0 "
+        >
+          <div
+            style={
+              Object {
+                "paddingTop": "4.0540540540540535px",
+              }
+            }
+          />
+        </div>
+        <div
+          onClick={[Function]}
+          style={
+            Object {
+              "background": "blue",
+              "cursor": "",
+              "flex": "none",
+              "height": 15,
+              "margin": "1px 1px 0 0",
+              "opacity": 0,
+              "textAlign": "center",
+              "width": "15px",
+            }
+          }
+          title="0 "
+        >
+          <div
+            style={
+              Object {
+                "paddingTop": "4.0540540540540535px",
+              }
+            }
+          />
+        </div>
+        <div
+          onClick={[Function]}
+          style={
+            Object {
+              "background": "blue",
+              "cursor": "",
+              "flex": "none",
+              "height": 15,
+              "margin": "1px 1px 0 0",
+              "opacity": 0,
+              "textAlign": "center",
+              "width": "15px",
+            }
+          }
+          title="0 "
+        >
+          <div
+            style={
+              Object {
+                "paddingTop": "4.0540540540540535px",
+              }
+            }
+          />
+        </div>
+        <div
+          onClick={[Function]}
+          style={
+            Object {
+              "background": "blue",
+              "cursor": "",
+              "flex": "none",
+              "height": 15,
+              "margin": "1px 1px 0 0",
+              "opacity": 0,
+              "textAlign": "center",
+              "width": "15px",
+            }
+          }
+          title="0 "
+        >
+          <div
+            style={
+              Object {
+                "paddingTop": "4.0540540540540535px",
+              }
+            }
+          />
+        </div>
+        <div
+          onClick={[Function]}
+          style={
+            Object {
+              "background": "blue",
+              "cursor": "",
+              "flex": "none",
+              "height": 15,
+              "margin": "1px 1px 0 0",
+              "opacity": 0,
+              "textAlign": "center",
+              "width": "15px",
+            }
+          }
+          title="0 "
+        >
+          <div
+            style={
+              Object {
+                "paddingTop": "4.0540540540540535px",
+              }
+            }
+          />
+        </div>
+        <div
+          onClick={[Function]}
+          style={
+            Object {
+              "background": "blue",
+              "cursor": "",
+              "flex": "none",
+              "height": 15,
+              "margin": "1px 1px 0 0",
+              "opacity": 0,
+              "textAlign": "center",
+              "width": "15px",
+            }
+          }
+          title="0 "
+        >
+          <div
+            style={
+              Object {
+                "paddingTop": "4.0540540540540535px",
+              }
+            }
+          />
+        </div>
+        <div
+          onClick={[Function]}
+          style={
+            Object {
+              "background": "blue",
+              "cursor": "",
+              "flex": "none",
+              "height": 15,
+              "margin": "1px 1px 0 0",
+              "opacity": 0,
+              "textAlign": "center",
+              "width": "15px",
+            }
+          }
+          title="0 "
+        >
+          <div
+            style={
+              Object {
+                "paddingTop": "4.0540540540540535px",
+              }
+            }
+          />
+        </div>
+        <div
+          onClick={[Function]}
+          style={
+            Object {
+              "background": "blue",
+              "cursor": "",
+              "flex": "none",
+              "height": 15,
+              "margin": "1px 1px 0 0",
+              "opacity": 0,
+              "textAlign": "center",
+              "width": "15px",
+            }
+          }
+          title="0 "
+        >
+          <div
+            style={
+              Object {
+                "paddingTop": "4.0540540540540535px",
+              }
+            }
+          />
+        </div>
+        <div
+          onClick={[Function]}
+          style={
+            Object {
+              "background": "blue",
+              "cursor": "",
+              "flex": "none",
+              "height": 15,
+              "margin": "1px 1px 0 0",
+              "opacity": 0,
+              "textAlign": "center",
+              "width": "15px",
+            }
+          }
+          title="0 "
+        >
+          <div
+            style={
+              Object {
+                "paddingTop": "4.0540540540540535px",
+              }
+            }
+          />
+        </div>
+      </div>
+      <div
+        style={
+          Object {
+            "display": "flex",
+          }
+        }
+      >
+        <div
+          style={
+            Object {
+              "flex": "0 0 40px",
+            }
+          }
+        >
+           
+          <div
+            style={
+              Object {
+                "paddingRight": "5px",
+                "paddingTop": "4.0540540540540535px",
+                "textAlign": "right",
+              }
+            }
+          >
+            06,00
+          </div>
+           
+        </div>
+        <div
+          onClick={[Function]}
+          style={
+            Object {
+              "background": "blue",
+              "cursor": "",
+              "flex": "none",
+              "height": 15,
+              "margin": "1px 1px 0 0",
+              "opacity": 0,
+              "textAlign": "center",
+              "width": "15px",
+            }
+          }
+          title="0 "
+        >
+          <div
+            style={
+              Object {
+                "paddingTop": "4.0540540540540535px",
+              }
+            }
+          />
+        </div>
+        <div
+          onClick={[Function]}
+          style={
+            Object {
+              "background": "blue",
+              "cursor": "",
+              "flex": "none",
+              "height": 15,
+              "margin": "1px 1px 0 0",
+              "opacity": 0,
+              "textAlign": "center",
+              "width": "15px",
+            }
+          }
+          title="0 "
+        >
+          <div
+            style={
+              Object {
+                "paddingTop": "4.0540540540540535px",
+              }
+            }
+          />
+        </div>
+        <div
+          onClick={[Function]}
+          style={
+            Object {
+              "background": "blue",
+              "cursor": "",
+              "flex": "none",
+              "height": 15,
+              "margin": "1px 1px 0 0",
+              "opacity": 0,
+              "textAlign": "center",
+              "width": "15px",
+            }
+          }
+          title="0 "
+        >
+          <div
+            style={
+              Object {
+                "paddingTop": "4.0540540540540535px",
+              }
+            }
+          />
+        </div>
+        <div
+          onClick={[Function]}
+          style={
+            Object {
+              "background": "blue",
+              "cursor": "",
+              "flex": "none",
+              "height": 15,
+              "margin": "1px 1px 0 0",
+              "opacity": 0,
+              "textAlign": "center",
+              "width": "15px",
+            }
+          }
+          title="0 "
+        >
+          <div
+            style={
+              Object {
+                "paddingTop": "4.0540540540540535px",
+              }
+            }
+          />
+        </div>
+        <div
+          onClick={[Function]}
+          style={
+            Object {
+              "background": "blue",
+              "cursor": "",
+              "flex": "none",
+              "height": 15,
+              "margin": "1px 1px 0 0",
+              "opacity": 0,
+              "textAlign": "center",
+              "width": "15px",
+            }
+          }
+          title="0 "
+        >
+          <div
+            style={
+              Object {
+                "paddingTop": "4.0540540540540535px",
+              }
+            }
+          />
+        </div>
+        <div
+          onClick={[Function]}
+          style={
+            Object {
+              "background": "blue",
+              "cursor": "",
+              "flex": "none",
+              "height": 15,
+              "margin": "1px 1px 0 0",
+              "opacity": 0,
+              "textAlign": "center",
+              "width": "15px",
+            }
+          }
+          title="0 "
+        >
+          <div
+            style={
+              Object {
+                "paddingTop": "4.0540540540540535px",
+              }
+            }
+          />
+        </div>
+        <div
+          onClick={[Function]}
+          style={
+            Object {
+              "background": "blue",
+              "cursor": "",
+              "flex": "none",
+              "height": 15,
+              "margin": "1px 1px 0 0",
+              "opacity": 0,
+              "textAlign": "center",
+              "width": "15px",
+            }
+          }
+          title="0 "
+        >
+          <div
+            style={
+              Object {
+                "paddingTop": "4.0540540540540535px",
+              }
+            }
+          />
+        </div>
+        <div
+          onClick={[Function]}
+          style={
+            Object {
+              "background": "blue",
+              "cursor": "",
+              "flex": "none",
+              "height": 15,
+              "margin": "1px 1px 0 0",
+              "opacity": 0,
+              "textAlign": "center",
+              "width": "15px",
+            }
+          }
+          title="0 "
+        >
+          <div
+            style={
+              Object {
+                "paddingTop": "4.0540540540540535px",
+              }
+            }
+          />
+        </div>
+        <div
+          onClick={[Function]}
+          style={
+            Object {
+              "background": "blue",
+              "cursor": "",
+              "flex": "none",
+              "height": 15,
+              "margin": "1px 1px 0 0",
+              "opacity": 0,
+              "textAlign": "center",
+              "width": "15px",
+            }
+          }
+          title="0 "
+        >
+          <div
+            style={
+              Object {
+                "paddingTop": "4.0540540540540535px",
+              }
+            }
+          />
+        </div>
+        <div
+          onClick={[Function]}
+          style={
+            Object {
+              "background": "blue",
+              "cursor": "",
+              "flex": "none",
+              "height": 15,
+              "margin": "1px 1px 0 0",
+              "opacity": 0,
+              "textAlign": "center",
+              "width": "15px",
+            }
+          }
+          title="0 "
+        >
+          <div
+            style={
+              Object {
+                "paddingTop": "4.0540540540540535px",
+              }
+            }
+          />
+        </div>
+        <div
+          onClick={[Function]}
+          style={
+            Object {
+              "background": "blue",
+              "cursor": "",
+              "flex": "none",
+              "height": 15,
+              "margin": "1px 1px 0 0",
+              "opacity": 0,
+              "textAlign": "center",
+              "width": "15px",
+            }
+          }
+          title="0 "
+        >
+          <div
+            style={
+              Object {
+                "paddingTop": "4.0540540540540535px",
+              }
+            }
+          />
+        </div>
+        <div
+          onClick={[Function]}
+          style={
+            Object {
+              "background": "blue",
+              "cursor": "",
+              "flex": "none",
+              "height": 15,
+              "margin": "1px 1px 0 0",
+              "opacity": 0,
+              "textAlign": "center",
+              "width": "15px",
+            }
+          }
+          title="0 "
+        >
+          <div
+            style={
+              Object {
+                "paddingTop": "4.0540540540540535px",
+              }
+            }
+          />
+        </div>
+      </div>
+      <div
+        style={
+          Object {
+            "display": "flex",
+          }
+        }
+      >
+        <div
+          style={
+            Object {
+              "flex": "0 0 40px",
+            }
+          }
+        >
+           
+          <div
+            style={
+              Object {
+                "paddingRight": "5px",
+                "paddingTop": "4.0540540540540535px",
+                "textAlign": "right",
+              }
+            }
+          >
+            05,00
+          </div>
+           
+        </div>
+        <div
+          onClick={[Function]}
+          style={
+            Object {
+              "background": "blue",
+              "cursor": "",
+              "flex": "none",
+              "height": 15,
+              "margin": "1px 1px 0 0",
+              "opacity": 0,
+              "textAlign": "center",
+              "width": "15px",
+            }
+          }
+          title="0 "
+        >
+          <div
+            style={
+              Object {
+                "paddingTop": "4.0540540540540535px",
+              }
+            }
+          />
+        </div>
+        <div
+          onClick={[Function]}
+          style={
+            Object {
+              "background": "blue",
+              "cursor": "",
+              "flex": "none",
+              "height": 15,
+              "margin": "1px 1px 0 0",
+              "opacity": 0,
+              "textAlign": "center",
+              "width": "15px",
+            }
+          }
+          title="0 "
+        >
+          <div
+            style={
+              Object {
+                "paddingTop": "4.0540540540540535px",
+              }
+            }
+          />
+        </div>
+        <div
+          onClick={[Function]}
+          style={
+            Object {
+              "background": "blue",
+              "cursor": "",
+              "flex": "none",
+              "height": 15,
+              "margin": "1px 1px 0 0",
+              "opacity": 0,
+              "textAlign": "center",
+              "width": "15px",
+            }
+          }
+          title="0 "
+        >
+          <div
+            style={
+              Object {
+                "paddingTop": "4.0540540540540535px",
+              }
+            }
+          />
+        </div>
+        <div
+          onClick={[Function]}
+          style={
+            Object {
+              "background": "blue",
+              "cursor": "",
+              "flex": "none",
+              "height": 15,
+              "margin": "1px 1px 0 0",
+              "opacity": 0,
+              "textAlign": "center",
+              "width": "15px",
+            }
+          }
+          title="0 "
+        >
+          <div
+            style={
+              Object {
+                "paddingTop": "4.0540540540540535px",
+              }
+            }
+          />
+        </div>
+        <div
+          onClick={[Function]}
+          style={
+            Object {
+              "background": "blue",
+              "cursor": "",
+              "flex": "none",
+              "height": 15,
+              "margin": "1px 1px 0 0",
+              "opacity": 0,
+              "textAlign": "center",
+              "width": "15px",
+            }
+          }
+          title="0 "
+        >
+          <div
+            style={
+              Object {
+                "paddingTop": "4.0540540540540535px",
+              }
+            }
+          />
+        </div>
+        <div
+          onClick={[Function]}
+          style={
+            Object {
+              "background": "blue",
+              "cursor": "",
+              "flex": "none",
+              "height": 15,
+              "margin": "1px 1px 0 0",
+              "opacity": 0,
+              "textAlign": "center",
+              "width": "15px",
+            }
+          }
+          title="0 "
+        >
+          <div
+            style={
+              Object {
+                "paddingTop": "4.0540540540540535px",
+              }
+            }
+          />
+        </div>
+        <div
+          onClick={[Function]}
+          style={
+            Object {
+              "background": "blue",
+              "cursor": "",
+              "flex": "none",
+              "height": 15,
+              "margin": "1px 1px 0 0",
+              "opacity": 0,
+              "textAlign": "center",
+              "width": "15px",
+            }
+          }
+          title="0 "
+        >
+          <div
+            style={
+              Object {
+                "paddingTop": "4.0540540540540535px",
+              }
+            }
+          />
+        </div>
+        <div
+          onClick={[Function]}
+          style={
+            Object {
+              "background": "blue",
+              "cursor": "",
+              "flex": "none",
+              "height": 15,
+              "margin": "1px 1px 0 0",
+              "opacity": 0,
+              "textAlign": "center",
+              "width": "15px",
+            }
+          }
+          title="0 "
+        >
+          <div
+            style={
+              Object {
+                "paddingTop": "4.0540540540540535px",
+              }
+            }
+          />
+        </div>
+        <div
+          onClick={[Function]}
+          style={
+            Object {
+              "background": "blue",
+              "cursor": "",
+              "flex": "none",
+              "height": 15,
+              "margin": "1px 1px 0 0",
+              "opacity": 0,
+              "textAlign": "center",
+              "width": "15px",
+            }
+          }
+          title="0 "
+        >
+          <div
+            style={
+              Object {
+                "paddingTop": "4.0540540540540535px",
+              }
+            }
+          />
+        </div>
+        <div
+          onClick={[Function]}
+          style={
+            Object {
+              "background": "blue",
+              "cursor": "",
+              "flex": "none",
+              "height": 15,
+              "margin": "1px 1px 0 0",
+              "opacity": 0,
+              "textAlign": "center",
+              "width": "15px",
+            }
+          }
+          title="0 "
+        >
+          <div
+            style={
+              Object {
+                "paddingTop": "4.0540540540540535px",
+              }
+            }
+          />
+        </div>
+        <div
+          onClick={[Function]}
+          style={
+            Object {
+              "background": "blue",
+              "cursor": "",
+              "flex": "none",
+              "height": 15,
+              "margin": "1px 1px 0 0",
+              "opacity": 0,
+              "textAlign": "center",
+              "width": "15px",
+            }
+          }
+          title="0 "
+        >
+          <div
+            style={
+              Object {
+                "paddingTop": "4.0540540540540535px",
+              }
+            }
+          />
+        </div>
+        <div
+          onClick={[Function]}
+          style={
+            Object {
+              "background": "blue",
+              "cursor": "",
+              "flex": "none",
+              "height": 15,
+              "margin": "1px 1px 0 0",
+              "opacity": 0,
+              "textAlign": "center",
+              "width": "15px",
+            }
+          }
+          title="0 "
+        >
+          <div
+            style={
+              Object {
+                "paddingTop": "4.0540540540540535px",
+              }
+            }
+          />
+        </div>
+      </div>
+      <div
+        style={
+          Object {
+            "display": "flex",
+          }
+        }
+      >
+        <div
+          style={
+            Object {
+              "flex": "0 0 40px",
+            }
+          }
+        >
+           
+          <div
+            style={
+              Object {
+                "paddingRight": "5px",
+                "paddingTop": "4.0540540540540535px",
+                "textAlign": "right",
+              }
+            }
+          >
+            04,00
+          </div>
+           
+        </div>
+        <div
+          onClick={[Function]}
+          style={
+            Object {
+              "background": "blue",
+              "cursor": "",
+              "flex": "none",
+              "height": 15,
+              "margin": "1px 1px 0 0",
+              "opacity": 0,
+              "textAlign": "center",
+              "width": "15px",
+            }
+          }
+          title="0 "
+        >
+          <div
+            style={
+              Object {
+                "paddingTop": "4.0540540540540535px",
+              }
+            }
+          />
+        </div>
+        <div
+          onClick={[Function]}
+          style={
+            Object {
+              "background": "blue",
+              "cursor": "",
+              "flex": "none",
+              "height": 15,
+              "margin": "1px 1px 0 0",
+              "opacity": 0,
+              "textAlign": "center",
+              "width": "15px",
+            }
+          }
+          title="0 "
+        >
+          <div
+            style={
+              Object {
+                "paddingTop": "4.0540540540540535px",
+              }
+            }
+          />
+        </div>
+        <div
+          onClick={[Function]}
+          style={
+            Object {
+              "background": "blue",
+              "cursor": "",
+              "flex": "none",
+              "height": 15,
+              "margin": "1px 1px 0 0",
+              "opacity": 0,
+              "textAlign": "center",
+              "width": "15px",
+            }
+          }
+          title="0 "
+        >
+          <div
+            style={
+              Object {
+                "paddingTop": "4.0540540540540535px",
+              }
+            }
+          />
+        </div>
+        <div
+          onClick={[Function]}
+          style={
+            Object {
+              "background": "blue",
+              "cursor": "",
+              "flex": "none",
+              "height": 15,
+              "margin": "1px 1px 0 0",
+              "opacity": 0,
+              "textAlign": "center",
+              "width": "15px",
+            }
+          }
+          title="0 "
+        >
+          <div
+            style={
+              Object {
+                "paddingTop": "4.0540540540540535px",
+              }
+            }
+          />
+        </div>
+        <div
+          onClick={[Function]}
+          style={
+            Object {
+              "background": "blue",
+              "cursor": "",
+              "flex": "none",
+              "height": 15,
+              "margin": "1px 1px 0 0",
+              "opacity": 0,
+              "textAlign": "center",
+              "width": "15px",
+            }
+          }
+          title="0 "
+        >
+          <div
+            style={
+              Object {
+                "paddingTop": "4.0540540540540535px",
+              }
+            }
+          />
+        </div>
+        <div
+          onClick={[Function]}
+          style={
+            Object {
+              "background": "blue",
+              "cursor": "",
+              "flex": "none",
+              "height": 15,
+              "margin": "1px 1px 0 0",
+              "opacity": 0,
+              "textAlign": "center",
+              "width": "15px",
+            }
+          }
+          title="0 "
+        >
+          <div
+            style={
+              Object {
+                "paddingTop": "4.0540540540540535px",
+              }
+            }
+          />
+        </div>
+        <div
+          onClick={[Function]}
+          style={
+            Object {
+              "background": "blue",
+              "cursor": "",
+              "flex": "none",
+              "height": 15,
+              "margin": "1px 1px 0 0",
+              "opacity": 0,
+              "textAlign": "center",
+              "width": "15px",
+            }
+          }
+          title="0 "
+        >
+          <div
+            style={
+              Object {
+                "paddingTop": "4.0540540540540535px",
+              }
+            }
+          />
+        </div>
+        <div
+          onClick={[Function]}
+          style={
+            Object {
+              "background": "blue",
+              "cursor": "",
+              "flex": "none",
+              "height": 15,
+              "margin": "1px 1px 0 0",
+              "opacity": 0,
+              "textAlign": "center",
+              "width": "15px",
+            }
+          }
+          title="0 "
+        >
+          <div
+            style={
+              Object {
+                "paddingTop": "4.0540540540540535px",
+              }
+            }
+          />
+        </div>
+        <div
+          onClick={[Function]}
+          style={
+            Object {
+              "background": "blue",
+              "cursor": "",
+              "flex": "none",
+              "height": 15,
+              "margin": "1px 1px 0 0",
+              "opacity": 0,
+              "textAlign": "center",
+              "width": "15px",
+            }
+          }
+          title="0 "
+        >
+          <div
+            style={
+              Object {
+                "paddingTop": "4.0540540540540535px",
+              }
+            }
+          />
+        </div>
+        <div
+          onClick={[Function]}
+          style={
+            Object {
+              "background": "blue",
+              "cursor": "",
+              "flex": "none",
+              "height": 15,
+              "margin": "1px 1px 0 0",
+              "opacity": 0,
+              "textAlign": "center",
+              "width": "15px",
+            }
+          }
+          title="0 "
+        >
+          <div
+            style={
+              Object {
+                "paddingTop": "4.0540540540540535px",
+              }
+            }
+          />
+        </div>
+        <div
+          onClick={[Function]}
+          style={
+            Object {
+              "background": "blue",
+              "cursor": "",
+              "flex": "none",
+              "height": 15,
+              "margin": "1px 1px 0 0",
+              "opacity": 0,
+              "textAlign": "center",
+              "width": "15px",
+            }
+          }
+          title="0 "
+        >
+          <div
+            style={
+              Object {
+                "paddingTop": "4.0540540540540535px",
+              }
+            }
+          />
+        </div>
+        <div
+          onClick={[Function]}
+          style={
+            Object {
+              "background": "blue",
+              "cursor": "",
+              "flex": "none",
+              "height": 15,
+              "margin": "1px 1px 0 0",
+              "opacity": 0,
+              "textAlign": "center",
+              "width": "15px",
+            }
+          }
+          title="0 "
+        >
+          <div
+            style={
+              Object {
+                "paddingTop": "4.0540540540540535px",
+              }
+            }
+          />
+        </div>
+      </div>
+      <div
+        style={
+          Object {
+            "display": "flex",
+          }
+        }
+      >
+        <div
+          style={
+            Object {
+              "flex": "0 0 40px",
+            }
+          }
+        >
+           
+          <div
+            style={
+              Object {
+                "paddingRight": "5px",
+                "paddingTop": "4.0540540540540535px",
+                "textAlign": "right",
+              }
+            }
+          >
+            03,00
+          </div>
+           
+        </div>
+        <div
+          onClick={[Function]}
+          style={
+            Object {
+              "background": "blue",
+              "cursor": "",
+              "flex": "none",
+              "height": 15,
+              "margin": "1px 1px 0 0",
+              "opacity": 0,
+              "textAlign": "center",
+              "width": "15px",
+            }
+          }
+          title="0 "
+        >
+          <div
+            style={
+              Object {
+                "paddingTop": "4.0540540540540535px",
+              }
+            }
+          />
+        </div>
+        <div
+          onClick={[Function]}
+          style={
+            Object {
+              "background": "blue",
+              "cursor": "",
+              "flex": "none",
+              "height": 15,
+              "margin": "1px 1px 0 0",
+              "opacity": 0,
+              "textAlign": "center",
+              "width": "15px",
+            }
+          }
+          title="0 "
+        >
+          <div
+            style={
+              Object {
+                "paddingTop": "4.0540540540540535px",
+              }
+            }
+          />
+        </div>
+        <div
+          onClick={[Function]}
+          style={
+            Object {
+              "background": "blue",
+              "cursor": "",
+              "flex": "none",
+              "height": 15,
+              "margin": "1px 1px 0 0",
+              "opacity": 0,
+              "textAlign": "center",
+              "width": "15px",
+            }
+          }
+          title="0 "
+        >
+          <div
+            style={
+              Object {
+                "paddingTop": "4.0540540540540535px",
+              }
+            }
+          />
+        </div>
+        <div
+          onClick={[Function]}
+          style={
+            Object {
+              "background": "blue",
+              "cursor": "",
+              "flex": "none",
+              "height": 15,
+              "margin": "1px 1px 0 0",
+              "opacity": 0,
+              "textAlign": "center",
+              "width": "15px",
+            }
+          }
+          title="0 "
+        >
+          <div
+            style={
+              Object {
+                "paddingTop": "4.0540540540540535px",
+              }
+            }
+          />
+        </div>
+        <div
+          onClick={[Function]}
+          style={
+            Object {
+              "background": "blue",
+              "cursor": "",
+              "flex": "none",
+              "height": 15,
+              "margin": "1px 1px 0 0",
+              "opacity": 0,
+              "textAlign": "center",
+              "width": "15px",
+            }
+          }
+          title="0 "
+        >
+          <div
+            style={
+              Object {
+                "paddingTop": "4.0540540540540535px",
+              }
+            }
+          />
+        </div>
+        <div
+          onClick={[Function]}
+          style={
+            Object {
+              "background": "blue",
+              "cursor": "",
+              "flex": "none",
+              "height": 15,
+              "margin": "1px 1px 0 0",
+              "opacity": 0,
+              "textAlign": "center",
+              "width": "15px",
+            }
+          }
+          title="0 "
+        >
+          <div
+            style={
+              Object {
+                "paddingTop": "4.0540540540540535px",
+              }
+            }
+          />
+        </div>
+        <div
+          onClick={[Function]}
+          style={
+            Object {
+              "background": "blue",
+              "cursor": "",
+              "flex": "none",
+              "height": 15,
+              "margin": "1px 1px 0 0",
+              "opacity": 0,
+              "textAlign": "center",
+              "width": "15px",
+            }
+          }
+          title="0 "
+        >
+          <div
+            style={
+              Object {
+                "paddingTop": "4.0540540540540535px",
+              }
+            }
+          />
+        </div>
+        <div
+          onClick={[Function]}
+          style={
+            Object {
+              "background": "blue",
+              "cursor": "",
+              "flex": "none",
+              "height": 15,
+              "margin": "1px 1px 0 0",
+              "opacity": 0,
+              "textAlign": "center",
+              "width": "15px",
+            }
+          }
+          title="0 "
+        >
+          <div
+            style={
+              Object {
+                "paddingTop": "4.0540540540540535px",
+              }
+            }
+          />
+        </div>
+        <div
+          onClick={[Function]}
+          style={
+            Object {
+              "background": "blue",
+              "cursor": "",
+              "flex": "none",
+              "height": 15,
+              "margin": "1px 1px 0 0",
+              "opacity": 0,
+              "textAlign": "center",
+              "width": "15px",
+            }
+          }
+          title="0 "
+        >
+          <div
+            style={
+              Object {
+                "paddingTop": "4.0540540540540535px",
+              }
+            }
+          />
+        </div>
+        <div
+          onClick={[Function]}
+          style={
+            Object {
+              "background": "blue",
+              "cursor": "",
+              "flex": "none",
+              "height": 15,
+              "margin": "1px 1px 0 0",
+              "opacity": 0,
+              "textAlign": "center",
+              "width": "15px",
+            }
+          }
+          title="0 "
+        >
+          <div
+            style={
+              Object {
+                "paddingTop": "4.0540540540540535px",
+              }
+            }
+          />
+        </div>
+        <div
+          onClick={[Function]}
+          style={
+            Object {
+              "background": "blue",
+              "cursor": "",
+              "flex": "none",
+              "height": 15,
+              "margin": "1px 1px 0 0",
+              "opacity": 0,
+              "textAlign": "center",
+              "width": "15px",
+            }
+          }
+          title="0 "
+        >
+          <div
+            style={
+              Object {
+                "paddingTop": "4.0540540540540535px",
+              }
+            }
+          />
+        </div>
+        <div
+          onClick={[Function]}
+          style={
+            Object {
+              "background": "blue",
+              "cursor": "",
+              "flex": "none",
+              "height": 15,
+              "margin": "1px 1px 0 0",
+              "opacity": 0,
+              "textAlign": "center",
+              "width": "15px",
+            }
+          }
+          title="0 "
+        >
+          <div
+            style={
+              Object {
+                "paddingTop": "4.0540540540540535px",
+              }
+            }
+          />
+        </div>
+      </div>
+      <div
+        style={
+          Object {
+            "display": "flex",
+          }
+        }
+      >
+        <div
+          style={
+            Object {
+              "flex": "0 0 40px",
+            }
+          }
+        >
+           
+          <div
+            style={
+              Object {
+                "paddingRight": "5px",
+                "paddingTop": "4.0540540540540535px",
+                "textAlign": "right",
+              }
+            }
+          >
+            02,00
+          </div>
+           
+        </div>
+        <div
+          onClick={[Function]}
+          style={
+            Object {
+              "background": "blue",
+              "cursor": "",
+              "flex": "none",
+              "height": 15,
+              "margin": "1px 1px 0 0",
+              "opacity": 0,
+              "textAlign": "center",
+              "width": "15px",
+            }
+          }
+          title="0 "
+        >
+          <div
+            style={
+              Object {
+                "paddingTop": "4.0540540540540535px",
+              }
+            }
+          />
+        </div>
+        <div
+          onClick={[Function]}
+          style={
+            Object {
+              "background": "blue",
+              "cursor": "",
+              "flex": "none",
+              "height": 15,
+              "margin": "1px 1px 0 0",
+              "opacity": 0,
+              "textAlign": "center",
+              "width": "15px",
+            }
+          }
+          title="0 "
+        >
+          <div
+            style={
+              Object {
+                "paddingTop": "4.0540540540540535px",
+              }
+            }
+          />
+        </div>
+        <div
+          onClick={[Function]}
+          style={
+            Object {
+              "background": "blue",
+              "cursor": "",
+              "flex": "none",
+              "height": 15,
+              "margin": "1px 1px 0 0",
+              "opacity": 0,
+              "textAlign": "center",
+              "width": "15px",
+            }
+          }
+          title="0 "
+        >
+          <div
+            style={
+              Object {
+                "paddingTop": "4.0540540540540535px",
+              }
+            }
+          />
+        </div>
+        <div
+          onClick={[Function]}
+          style={
+            Object {
+              "background": "blue",
+              "cursor": "",
+              "flex": "none",
+              "height": 15,
+              "margin": "1px 1px 0 0",
+              "opacity": 0,
+              "textAlign": "center",
+              "width": "15px",
+            }
+          }
+          title="0 "
+        >
+          <div
+            style={
+              Object {
+                "paddingTop": "4.0540540540540535px",
+              }
+            }
+          />
+        </div>
+        <div
+          onClick={[Function]}
+          style={
+            Object {
+              "background": "blue",
+              "cursor": "",
+              "flex": "none",
+              "height": 15,
+              "margin": "1px 1px 0 0",
+              "opacity": 0,
+              "textAlign": "center",
+              "width": "15px",
+            }
+          }
+          title="0 "
+        >
+          <div
+            style={
+              Object {
+                "paddingTop": "4.0540540540540535px",
+              }
+            }
+          />
+        </div>
+        <div
+          onClick={[Function]}
+          style={
+            Object {
+              "background": "blue",
+              "cursor": "",
+              "flex": "none",
+              "height": 15,
+              "margin": "1px 1px 0 0",
+              "opacity": 0,
+              "textAlign": "center",
+              "width": "15px",
+            }
+          }
+          title="0 "
+        >
+          <div
+            style={
+              Object {
+                "paddingTop": "4.0540540540540535px",
+              }
+            }
+          />
+        </div>
+        <div
+          onClick={[Function]}
+          style={
+            Object {
+              "background": "blue",
+              "cursor": "",
+              "flex": "none",
+              "height": 15,
+              "margin": "1px 1px 0 0",
+              "opacity": 0,
+              "textAlign": "center",
+              "width": "15px",
+            }
+          }
+          title="0 "
+        >
+          <div
+            style={
+              Object {
+                "paddingTop": "4.0540540540540535px",
+              }
+            }
+          />
+        </div>
+        <div
+          onClick={[Function]}
+          style={
+            Object {
+              "background": "blue",
+              "cursor": "",
+              "flex": "none",
+              "height": 15,
+              "margin": "1px 1px 0 0",
+              "opacity": 0,
+              "textAlign": "center",
+              "width": "15px",
+            }
+          }
+          title="0 "
+        >
+          <div
+            style={
+              Object {
+                "paddingTop": "4.0540540540540535px",
+              }
+            }
+          />
+        </div>
+        <div
+          onClick={[Function]}
+          style={
+            Object {
+              "background": "blue",
+              "cursor": "",
+              "flex": "none",
+              "height": 15,
+              "margin": "1px 1px 0 0",
+              "opacity": 0,
+              "textAlign": "center",
+              "width": "15px",
+            }
+          }
+          title="0 "
+        >
+          <div
+            style={
+              Object {
+                "paddingTop": "4.0540540540540535px",
+              }
+            }
+          />
+        </div>
+        <div
+          onClick={[Function]}
+          style={
+            Object {
+              "background": "blue",
+              "cursor": "",
+              "flex": "none",
+              "height": 15,
+              "margin": "1px 1px 0 0",
+              "opacity": 0,
+              "textAlign": "center",
+              "width": "15px",
+            }
+          }
+          title="0 "
+        >
+          <div
+            style={
+              Object {
+                "paddingTop": "4.0540540540540535px",
+              }
+            }
+          />
+        </div>
+        <div
+          onClick={[Function]}
+          style={
+            Object {
+              "background": "blue",
+              "cursor": "",
+              "flex": "none",
+              "height": 15,
+              "margin": "1px 1px 0 0",
+              "opacity": 0,
+              "textAlign": "center",
+              "width": "15px",
+            }
+          }
+          title="0 "
+        >
+          <div
+            style={
+              Object {
+                "paddingTop": "4.0540540540540535px",
+              }
+            }
+          />
+        </div>
+        <div
+          onClick={[Function]}
+          style={
+            Object {
+              "background": "blue",
+              "cursor": "",
+              "flex": "none",
+              "height": 15,
+              "margin": "1px 1px 0 0",
+              "opacity": 0,
+              "textAlign": "center",
+              "width": "15px",
+            }
+          }
+          title="0 "
+        >
+          <div
+            style={
+              Object {
+                "paddingTop": "4.0540540540540535px",
+              }
+            }
+          />
+        </div>
+      </div>
+      <div
+        style={
+          Object {
+            "display": "flex",
+          }
+        }
+      >
+        <div
+          style={
+            Object {
+              "flex": "0 0 40px",
+            }
+          }
+        >
+           
+          <div
+            style={
+              Object {
+                "paddingRight": "5px",
+                "paddingTop": "4.0540540540540535px",
+                "textAlign": "right",
+              }
+            }
+          >
+            01,00
+          </div>
+           
+        </div>
+        <div
+          onClick={[Function]}
+          style={
+            Object {
+              "background": "blue",
+              "cursor": "",
+              "flex": "none",
+              "height": 15,
+              "margin": "1px 1px 0 0",
+              "opacity": 0,
+              "textAlign": "center",
+              "width": "15px",
+            }
+          }
+          title="0 "
+        >
+          <div
+            style={
+              Object {
+                "paddingTop": "4.0540540540540535px",
+              }
+            }
+          />
+        </div>
+        <div
+          onClick={[Function]}
+          style={
+            Object {
+              "background": "blue",
+              "cursor": "",
+              "flex": "none",
+              "height": 15,
+              "margin": "1px 1px 0 0",
+              "opacity": 0,
+              "textAlign": "center",
+              "width": "15px",
+            }
+          }
+          title="0 "
+        >
+          <div
+            style={
+              Object {
+                "paddingTop": "4.0540540540540535px",
+              }
+            }
+          />
+        </div>
+        <div
+          onClick={[Function]}
+          style={
+            Object {
+              "background": "blue",
+              "cursor": "",
+              "flex": "none",
+              "height": 15,
+              "margin": "1px 1px 0 0",
+              "opacity": 0,
+              "textAlign": "center",
+              "width": "15px",
+            }
+          }
+          title="0 "
+        >
+          <div
+            style={
+              Object {
+                "paddingTop": "4.0540540540540535px",
+              }
+            }
+          />
+        </div>
+        <div
+          onClick={[Function]}
+          style={
+            Object {
+              "background": "blue",
+              "cursor": "",
+              "flex": "none",
+              "height": 15,
+              "margin": "1px 1px 0 0",
+              "opacity": 0,
+              "textAlign": "center",
+              "width": "15px",
+            }
+          }
+          title="0 "
+        >
+          <div
+            style={
+              Object {
+                "paddingTop": "4.0540540540540535px",
+              }
+            }
+          />
+        </div>
+        <div
+          onClick={[Function]}
+          style={
+            Object {
+              "background": "blue",
+              "cursor": "",
+              "flex": "none",
+              "height": 15,
+              "margin": "1px 1px 0 0",
+              "opacity": 0,
+              "textAlign": "center",
+              "width": "15px",
+            }
+          }
+          title="0 "
+        >
+          <div
+            style={
+              Object {
+                "paddingTop": "4.0540540540540535px",
+              }
+            }
+          />
+        </div>
+        <div
+          onClick={[Function]}
+          style={
+            Object {
+              "background": "blue",
+              "cursor": "",
+              "flex": "none",
+              "height": 15,
+              "margin": "1px 1px 0 0",
+              "opacity": 0,
+              "textAlign": "center",
+              "width": "15px",
+            }
+          }
+          title="0 "
+        >
+          <div
+            style={
+              Object {
+                "paddingTop": "4.0540540540540535px",
+              }
+            }
+          />
+        </div>
+        <div
+          onClick={[Function]}
+          style={
+            Object {
+              "background": "blue",
+              "cursor": "",
+              "flex": "none",
+              "height": 15,
+              "margin": "1px 1px 0 0",
+              "opacity": 0,
+              "textAlign": "center",
+              "width": "15px",
+            }
+          }
+          title="0 "
+        >
+          <div
+            style={
+              Object {
+                "paddingTop": "4.0540540540540535px",
+              }
+            }
+          />
+        </div>
+        <div
+          onClick={[Function]}
+          style={
+            Object {
+              "background": "blue",
+              "cursor": "",
+              "flex": "none",
+              "height": 15,
+              "margin": "1px 1px 0 0",
+              "opacity": 0,
+              "textAlign": "center",
+              "width": "15px",
+            }
+          }
+          title="0 "
+        >
+          <div
+            style={
+              Object {
+                "paddingTop": "4.0540540540540535px",
+              }
+            }
+          />
+        </div>
+        <div
+          onClick={[Function]}
+          style={
+            Object {
+              "background": "blue",
+              "cursor": "",
+              "flex": "none",
+              "height": 15,
+              "margin": "1px 1px 0 0",
+              "opacity": 0,
+              "textAlign": "center",
+              "width": "15px",
+            }
+          }
+          title="0 "
+        >
+          <div
+            style={
+              Object {
+                "paddingTop": "4.0540540540540535px",
+              }
+            }
+          />
+        </div>
+        <div
+          onClick={[Function]}
+          style={
+            Object {
+              "background": "blue",
+              "cursor": "",
+              "flex": "none",
+              "height": 15,
+              "margin": "1px 1px 0 0",
+              "opacity": 0,
+              "textAlign": "center",
+              "width": "15px",
+            }
+          }
+          title="0 "
+        >
+          <div
+            style={
+              Object {
+                "paddingTop": "4.0540540540540535px",
+              }
+            }
+          />
+        </div>
+        <div
+          onClick={[Function]}
+          style={
+            Object {
+              "background": "blue",
+              "cursor": "",
+              "flex": "none",
+              "height": 15,
+              "margin": "1px 1px 0 0",
+              "opacity": 0,
+              "textAlign": "center",
+              "width": "15px",
+            }
+          }
+          title="0 "
+        >
+          <div
+            style={
+              Object {
+                "paddingTop": "4.0540540540540535px",
+              }
+            }
+          />
+        </div>
+        <div
+          onClick={[Function]}
+          style={
+            Object {
+              "background": "blue",
+              "cursor": "",
+              "flex": "none",
+              "height": 15,
+              "margin": "1px 1px 0 0",
+              "opacity": 0,
+              "textAlign": "center",
+              "width": "15px",
+            }
+          }
+          title="0 "
+        >
+          <div
+            style={
+              Object {
+                "paddingTop": "4.0540540540540535px",
+              }
+            }
+          />
+        </div>
+      </div>
+      <div
+        style={
+          Object {
+            "display": "flex",
+          }
+        }
+      >
+        <div
+          style={
+            Object {
+              "flex": "0 0 40px",
+            }
+          }
+        >
+           
+          <div
+            style={
+              Object {
+                "paddingRight": "5px",
+                "paddingTop": "4.0540540540540535px",
+                "textAlign": "right",
+              }
+            }
+          >
+            00,00
+          </div>
+           
+        </div>
+        <div
+          onClick={[Function]}
+          style={
+            Object {
+              "background": "blue",
+              "cursor": "",
+              "flex": "none",
+              "height": 15,
+              "margin": "1px 1px 0 0",
+              "opacity": 0,
+              "textAlign": "center",
+              "width": "15px",
+            }
+          }
+          title="0 "
+        >
+          <div
+            style={
+              Object {
+                "paddingTop": "4.0540540540540535px",
+              }
+            }
+          />
+        </div>
+        <div
+          onClick={[Function]}
+          style={
+            Object {
+              "background": "blue",
+              "cursor": "",
+              "flex": "none",
+              "height": 15,
+              "margin": "1px 1px 0 0",
+              "opacity": 0,
+              "textAlign": "center",
+              "width": "15px",
+            }
+          }
+          title="0 "
+        >
+          <div
+            style={
+              Object {
+                "paddingTop": "4.0540540540540535px",
+              }
+            }
+          />
+        </div>
+        <div
+          onClick={[Function]}
+          style={
+            Object {
+              "background": "blue",
+              "cursor": "",
+              "flex": "none",
+              "height": 15,
+              "margin": "1px 1px 0 0",
+              "opacity": 0,
+              "textAlign": "center",
+              "width": "15px",
+            }
+          }
+          title="0 "
+        >
+          <div
+            style={
+              Object {
+                "paddingTop": "4.0540540540540535px",
+              }
+            }
+          />
+        </div>
+        <div
+          onClick={[Function]}
+          style={
+            Object {
+              "background": "blue",
+              "cursor": "",
+              "flex": "none",
+              "height": 15,
+              "margin": "1px 1px 0 0",
+              "opacity": 0,
+              "textAlign": "center",
+              "width": "15px",
+            }
+          }
+          title="0 "
+        >
+          <div
+            style={
+              Object {
+                "paddingTop": "4.0540540540540535px",
+              }
+            }
+          />
+        </div>
+        <div
+          onClick={[Function]}
+          style={
+            Object {
+              "background": "blue",
+              "cursor": "",
+              "flex": "none",
+              "height": 15,
+              "margin": "1px 1px 0 0",
+              "opacity": 0,
+              "textAlign": "center",
+              "width": "15px",
+            }
+          }
+          title="0 "
+        >
+          <div
+            style={
+              Object {
+                "paddingTop": "4.0540540540540535px",
+              }
+            }
+          />
+        </div>
+        <div
+          onClick={[Function]}
+          style={
+            Object {
+              "background": "blue",
+              "cursor": "",
+              "flex": "none",
+              "height": 15,
+              "margin": "1px 1px 0 0",
+              "opacity": 0,
+              "textAlign": "center",
+              "width": "15px",
+            }
+          }
+          title="0 "
+        >
+          <div
+            style={
+              Object {
+                "paddingTop": "4.0540540540540535px",
+              }
+            }
+          />
+        </div>
+        <div
+          onClick={[Function]}
+          style={
+            Object {
+              "background": "blue",
+              "cursor": "",
+              "flex": "none",
+              "height": 15,
+              "margin": "1px 1px 0 0",
+              "opacity": 0,
+              "textAlign": "center",
+              "width": "15px",
+            }
+          }
+          title="0 "
+        >
+          <div
+            style={
+              Object {
+                "paddingTop": "4.0540540540540535px",
+              }
+            }
+          />
+        </div>
+        <div
+          onClick={[Function]}
+          style={
+            Object {
+              "background": "blue",
+              "cursor": "",
+              "flex": "none",
+              "height": 15,
+              "margin": "1px 1px 0 0",
+              "opacity": 0,
+              "textAlign": "center",
+              "width": "15px",
+            }
+          }
+          title="0 "
+        >
+          <div
+            style={
+              Object {
+                "paddingTop": "4.0540540540540535px",
+              }
+            }
+          />
+        </div>
+        <div
+          onClick={[Function]}
+          style={
+            Object {
+              "background": "blue",
+              "cursor": "",
+              "flex": "none",
+              "height": 15,
+              "margin": "1px 1px 0 0",
+              "opacity": 0,
+              "textAlign": "center",
+              "width": "15px",
+            }
+          }
+          title="0 "
+        >
+          <div
+            style={
+              Object {
+                "paddingTop": "4.0540540540540535px",
+              }
+            }
+          />
+        </div>
+        <div
+          onClick={[Function]}
+          style={
+            Object {
+              "background": "blue",
+              "cursor": "",
+              "flex": "none",
+              "height": 15,
+              "margin": "1px 1px 0 0",
+              "opacity": 0,
+              "textAlign": "center",
+              "width": "15px",
+            }
+          }
+          title="0 "
+        >
+          <div
+            style={
+              Object {
+                "paddingTop": "4.0540540540540535px",
+              }
+            }
+          />
+        </div>
+        <div
+          onClick={[Function]}
+          style={
+            Object {
+              "background": "blue",
+              "cursor": "",
+              "flex": "none",
+              "height": 15,
+              "margin": "1px 1px 0 0",
+              "opacity": 0,
+              "textAlign": "center",
+              "width": "15px",
+            }
+          }
+          title="0 "
+        >
+          <div
+            style={
+              Object {
+                "paddingTop": "4.0540540540540535px",
+              }
+            }
+          />
+        </div>
+        <div
+          onClick={[Function]}
+          style={
+            Object {
+              "background": "blue",
+              "cursor": "",
+              "flex": "none",
+              "height": 15,
+              "margin": "1px 1px 0 0",
+              "opacity": 0,
+              "textAlign": "center",
+              "width": "15px",
+            }
+          }
+          title="0 "
+        >
+          <div
+            style={
+              Object {
+                "paddingTop": "4.0540540540540535px",
+              }
+            }
+          />
+        </div>
+      </div>
+    </div>
+    <div
+      style={
+        Object {
+          "display": "flex",
+        }
+      }
+    >
+      <div
+        style={
+          Object {
+            "flex": "0 0 40px",
+          }
+        }
+      >
+         
+         
+         
+      </div>
+      <div
+        style={
+          Object {
+            "flex": "none",
+            "textAlign": "center",
+            "visibility": "visible",
+            "width": "16px",
+          }
+        }
+      >
+        Jan
+      </div>
+      <div
+        style={
+          Object {
+            "flex": "none",
+            "textAlign": "center",
+            "visibility": "visible",
+            "width": "16px",
+          }
+        }
+      >
+        Feb
+      </div>
+      <div
+        style={
+          Object {
+            "flex": "none",
+            "textAlign": "center",
+            "visibility": "visible",
+            "width": "16px",
+          }
+        }
+      >
+        Mar
+      </div>
+      <div
+        style={
+          Object {
+            "flex": "none",
+            "textAlign": "center",
+            "visibility": "visible",
+            "width": "16px",
+          }
+        }
+      >
+        Apr
+      </div>
+      <div
+        style={
+          Object {
+            "flex": "none",
+            "textAlign": "center",
+            "visibility": "visible",
+            "width": "16px",
+          }
+        }
+      >
+        Mei
+      </div>
+      <div
+        style={
+          Object {
+            "flex": "none",
+            "textAlign": "center",
+            "visibility": "visible",
+            "width": "16px",
+          }
+        }
+      >
+        Jun
+      </div>
+      <div
+        style={
+          Object {
+            "flex": "none",
+            "textAlign": "center",
+            "visibility": "visible",
+            "width": "16px",
+          }
+        }
+      >
+        Jul
+      </div>
+      <div
+        style={
+          Object {
+            "flex": "none",
+            "textAlign": "center",
+            "visibility": "visible",
+            "width": "16px",
+          }
+        }
+      >
+        Ags
+      </div>
+      <div
+        style={
+          Object {
+            "flex": "none",
+            "textAlign": "center",
+            "visibility": "visible",
+            "width": "16px",
+          }
+        }
+      >
+        Sep
+      </div>
+      <div
+        style={
+          Object {
+            "flex": "none",
+            "textAlign": "center",
+            "visibility": "visible",
+            "width": "16px",
+          }
+        }
+      >
+        Okt
+      </div>
+      <div
+        style={
+          Object {
+            "flex": "none",
+            "textAlign": "center",
+            "visibility": "visible",
+            "width": "16px",
+          }
+        }
+      >
+        Nov
+      </div>
+      <div
+        style={
+          Object {
+            "flex": "none",
+            "textAlign": "center",
+            "visibility": "visible",
+            "width": "16px",
+          }
+        }
+      >
+        Des
+      </div>
+    </div>
+  </div>
+</div>
+`;

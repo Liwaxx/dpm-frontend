@@ -1,0 +1,39 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Personal renders correctly 1`] = `
+<section>
+  <div>
+    <div />
+    <div>
+      <div />
+      <div />
+    </div>
+    <div />
+  </div>
+  <div>
+    <div />
+    <div />
+  </div>
+  <div>
+    <div>
+      <div
+        className="MuiPaper-root-1 MuiPaper-elevation2-5 MuiPaper-rounded-2"
+        style={
+          Object {
+            "display": "none",
+          }
+        }
+      />
+      <div
+        className="MuiPaper-root-1 MuiPaper-elevation2-5 MuiPaper-rounded-2"
+        style={
+          Object {
+            "display": "block",
+          }
+        }
+      />
+    </div>
+  </div>
+  <div />
+</section>
+`;

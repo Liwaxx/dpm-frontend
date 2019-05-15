@@ -1,0 +1,13 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Icon renders active state 1`] = `
+<img
+  className="Component-root-1"
+/>
+`;
+
+exports[`Icon renders correctly 1`] = `
+<img
+  className="Component-root-1"
+/>
+`;

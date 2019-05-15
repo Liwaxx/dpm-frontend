@@ -1,0 +1,26 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Dropdown renders correctly 1`] = `
+<div
+  className="Dropdown-root"
+>
+  <div
+    className="Dropdown-control"
+    onMouseDown={[Function]}
+    onTouchEnd={[Function]}
+  >
+    <div
+      className="Dropdown-placeholder is-selected"
+    >
+      Bulan/Minggu
+    </div>
+    <div
+      className="Dropdown-arrow-wrapper"
+    >
+      <span
+        className="Dropdown-arrow"
+      />
+    </div>
+  </div>
+</div>
+`;

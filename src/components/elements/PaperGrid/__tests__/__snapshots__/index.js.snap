@@ -1,0 +1,14 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`PaperGrid renders correctly 1`] = `
+<div
+  className="Component-container-2"
+>
+  <div
+    className="Component-pembuka-3"
+  />
+  <div
+    className="Component-add-4"
+  />
+</div>
+`;

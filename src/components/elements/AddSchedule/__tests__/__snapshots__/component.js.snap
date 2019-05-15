@@ -1,0 +1,71 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Component renders correctly 1`] = `
+<div
+  className="MuiPaper-root-2 MuiPaper-elevation1-5 MuiPaper-rounded-3 MuiCard-root-1"
+>
+  <form>
+    <div />
+    <button
+      className="MuiButtonBase-root-55 MuiButton-root-29 MuiButton-text-31 MuiButton-flat-34"
+      disabled={false}
+      onBlur={[Function]}
+      onFocus={[Function]}
+      onKeyDown={[Function]}
+      onKeyUp={[Function]}
+      onMouseDown={[Function]}
+      onMouseLeave={[Function]}
+      onMouseUp={[Function]}
+      onTouchEnd={[Function]}
+      onTouchMove={[Function]}
+      onTouchStart={[Function]}
+      tabIndex="0"
+      type="submit"
+    >
+      <span
+        className="MuiButton-label-30"
+      >
+        SAVE 
+      </span>
+      <span
+        className="MuiTouchRipple-root-58"
+      />
+    </button>
+  </form>
+</div>
+`;
+
+exports[`Component renders with message 1`] = `
+<div
+  className="MuiPaper-root-2 MuiPaper-elevation1-5 MuiPaper-rounded-3 MuiCard-root-1"
+>
+  <form>
+    <div />
+    <button
+      className="MuiButtonBase-root-55 MuiButton-root-29 MuiButton-text-31 MuiButton-flat-34"
+      disabled={false}
+      onBlur={[Function]}
+      onFocus={[Function]}
+      onKeyDown={[Function]}
+      onKeyUp={[Function]}
+      onMouseDown={[Function]}
+      onMouseLeave={[Function]}
+      onMouseUp={[Function]}
+      onTouchEnd={[Function]}
+      onTouchMove={[Function]}
+      onTouchStart={[Function]}
+      tabIndex="0"
+      type="submit"
+    >
+      <span
+        className="MuiButton-label-30"
+      >
+        SAVE 
+      </span>
+      <span
+        className="MuiTouchRipple-root-58"
+      />
+    </button>
+  </form>
+</div>
+`;

@@ -1,0 +1,135 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`TalentVacancyCard renders correctly 1`] = `
+<div
+  className="Component-root-11"
+>
+  <div
+    className="Component-content-1"
+  >
+    <div
+      className="Component-contentItem-2"
+    >
+      <div
+        className="Component-lineContainer-6"
+      >
+        <div
+          className="Component-line-5"
+        >
+          <div
+            className="Component-lineGrey-8"
+            style={
+              Object {
+                "flex": "NaN 1 auto",
+              }
+            }
+          />
+          <div
+            className="Component-lineRed-9"
+            style={
+              Object {
+                "flex": "undefined 1 auto",
+              }
+            }
+          />
+        </div>
+      </div>
+    </div>
+    <div
+      className="Component-contentItem-2"
+    >
+      <div
+        className="Component-lineContainer-6"
+      >
+        <div
+          className="Component-line-5"
+        >
+          <div
+            className="Component-lineGreen-7"
+            style={
+              Object {
+                "flex": "undefined 1 auto",
+              }
+            }
+          />
+          <div
+            className="Component-lineGrey-8"
+            style={
+              Object {
+                "flex": "NaN 1 auto",
+              }
+            }
+          />
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`TalentVacancyCard renders with custom class 1`] = `
+<div
+  className="Component-root-11 test"
+>
+  <div
+    className="Component-content-1"
+  >
+    <div
+      className="Component-contentItem-2"
+    >
+      <div
+        className="Component-lineContainer-6"
+      >
+        <div
+          className="Component-line-5"
+        >
+          <div
+            className="Component-lineGrey-8"
+            style={
+              Object {
+                "flex": "NaN 1 auto",
+              }
+            }
+          />
+          <div
+            className="Component-lineRed-9"
+            style={
+              Object {
+                "flex": "undefined 1 auto",
+              }
+            }
+          />
+        </div>
+      </div>
+    </div>
+    <div
+      className="Component-contentItem-2"
+    >
+      <div
+        className="Component-lineContainer-6"
+      >
+        <div
+          className="Component-line-5"
+        >
+          <div
+            className="Component-lineGreen-7"
+            style={
+              Object {
+                "flex": "undefined 1 auto",
+              }
+            }
+          />
+          <div
+            className="Component-lineGrey-8"
+            style={
+              Object {
+                "flex": "NaN 1 auto",
+              }
+            }
+          />
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;

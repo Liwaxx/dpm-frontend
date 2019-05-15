@@ -1,0 +1,14 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Error404 renders correctly 1`] = `
+<section>
+  <h1
+    className="MuiTypography-root-1 MuiTypography-display2-4"
+  >
+    Page not found
+  </h1>
+  <p
+    className="MuiTypography-root-1 MuiTypography-body1-10"
+  />
+</section>
+`;

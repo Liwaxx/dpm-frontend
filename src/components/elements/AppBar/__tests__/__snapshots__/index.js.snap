@@ -1,0 +1,76 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`AppBar renders correctly 1`] = `
+<div
+  className="Component-root-1"
+>
+  <header
+    className="MuiPaper-root-17 MuiPaper-elevation4-23 MuiAppBar-root-9 MuiAppBar-positionStatic-13 MuiAppBar-colorPrimary-15 Component-paper-2"
+  >
+    <div
+      className="MuiToolbar-root-44 MuiToolbar-regular-46 Component-toolbar-4"
+    >
+      <div
+        className="Component-grow-3"
+      >
+        <div
+          className="Component-select-5"
+        />
+        <div
+          className="MuiFormControl-root-48 Component-bar-6"
+        >
+          <div
+            className="MuiInput-root-52 MuiInput-formControl-53"
+          >
+            <input
+              aria-invalid={false}
+              className="MuiInput-input-60"
+              disabled={false}
+              onBlur={[Function]}
+              onChange={[Function]}
+              onFocus={[Function]}
+              placeholder="Cari"
+              required={false}
+              type="text"
+              value=""
+            />
+            <div
+              className="MuiInputAdornment-root-65 MuiInputAdornment-positionStart-66"
+            >
+              <button
+                className="MuiButtonBase-root-74 MuiIconButton-root-68 Component-submit-7"
+                disabled={false}
+                onBlur={[Function]}
+                onFocus={[Function]}
+                onKeyDown={[Function]}
+                onKeyUp={[Function]}
+                onMouseDown={[Function]}
+                onMouseLeave={[Function]}
+                onMouseUp={[Function]}
+                onSubmit={[Function]}
+                onTouchEnd={[Function]}
+                onTouchMove={[Function]}
+                onTouchStart={[Function]}
+                tabIndex="0"
+                type="button"
+              >
+                <span
+                  className="MuiIconButton-label-73"
+                >
+                  <img
+                    className="Component-searchbutton-8"
+                    src="/assets/search.png"
+                  />
+                </span>
+                <span
+                  className="MuiTouchRipple-root-77"
+                />
+              </button>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </header>
+</div>
+`;

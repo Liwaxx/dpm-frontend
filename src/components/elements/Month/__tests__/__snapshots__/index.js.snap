@@ -1,0 +1,40 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Month renders correctly 1`] = `
+<tr
+  className="MuiTableRow-root-5 Component-line-4"
+>
+  <td
+    aria-sort={null}
+    className="MuiTableCell-root-10"
+  >
+    <button
+      className="Component-left-1"
+      onClick={[Function]}
+    >
+      <img />
+    </button>
+  </td>
+  <td
+    aria-sort={null}
+    className="MuiTableCell-root-10"
+  >
+    <div
+      className="Component-tahun-3"
+    >
+      2018
+    </div>
+  </td>
+  <td
+    aria-sort={null}
+    className="MuiTableCell-root-10"
+  >
+    <button
+      className="Component-right-2"
+      onClick={[Function]}
+    >
+      <img />
+    </button>
+  </td>
+</tr>
+`;

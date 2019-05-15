@@ -1,0 +1,14 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ListSchedule renders correctly 1`] = `
+<div
+  className="MuiPaper-root-9 MuiPaper-elevation1-12 MuiPaper-rounded-10 MuiCard-root-8 Component-container-1"
+>
+  <div
+    className="MuiPaper-root-9 MuiPaper-elevation1-12 MuiPaper-rounded-10 MuiCard-root-8 Component-head-2"
+  />
+  <div
+    className="MuiPaper-root-9 MuiPaper-elevation1-12 MuiPaper-rounded-10 MuiCard-root-8 Component-content-3"
+  />
+</div>
+`;

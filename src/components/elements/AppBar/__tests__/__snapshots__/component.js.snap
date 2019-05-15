@@ -1,0 +1,69 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`AppBar renders correctly 1`] = `
+<div>
+  <header
+    className="MuiPaper-root-9 MuiPaper-elevation4-15 MuiAppBar-root-1 MuiAppBar-positionStatic-5 MuiAppBar-colorPrimary-7"
+  >
+    <div
+      className="MuiToolbar-root-36 MuiToolbar-regular-38"
+    >
+      <div>
+        <div />
+        <div
+          className="MuiFormControl-root-40"
+        >
+          <div
+            className="MuiInput-root-44 MuiInput-formControl-45"
+          >
+            <input
+              aria-invalid={false}
+              className="MuiInput-input-52"
+              disabled={false}
+              onBlur={[Function]}
+              onChange={[Function]}
+              onFocus={[Function]}
+              placeholder="Cari"
+              required={false}
+              type="text"
+              value=""
+            />
+            <div
+              className="MuiInputAdornment-root-57 MuiInputAdornment-positionStart-58"
+            >
+              <button
+                className="MuiButtonBase-root-66 MuiIconButton-root-60"
+                disabled={false}
+                onBlur={[Function]}
+                onFocus={[Function]}
+                onKeyDown={[Function]}
+                onKeyUp={[Function]}
+                onMouseDown={[Function]}
+                onMouseLeave={[Function]}
+                onMouseUp={[Function]}
+                onSubmit={[Function]}
+                onTouchEnd={[Function]}
+                onTouchMove={[Function]}
+                onTouchStart={[Function]}
+                tabIndex="0"
+                type="button"
+              >
+                <span
+                  className="MuiIconButton-label-65"
+                >
+                  <img
+                    src="/assets/search.png"
+                  />
+                </span>
+                <span
+                  className="MuiTouchRipple-root-69"
+                />
+              </button>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </header>
+</div>
+`;

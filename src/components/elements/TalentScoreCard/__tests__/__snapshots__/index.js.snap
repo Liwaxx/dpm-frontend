@@ -1,0 +1,100 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`TalentScoreCard renders correctly 1`] = `
+<div
+  className="Component-root-9"
+>
+  <table
+    className="Component-content-3"
+  >
+    <thead>
+      <tr>
+        <th
+          className="Component-headerCell-4"
+        />
+        <th
+          className="Component-headerCell-4"
+        />
+        <th
+          className="Component-headerCell-4"
+        />
+        <th
+          className="Component-headerCell-4"
+        />
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td
+          className="Component-rowCell-10"
+        />
+        <td
+          className="Component-rowCell-10"
+        />
+        <td
+          className="Component-rowCell-10"
+        />
+        <td
+          className="Component-rowCell-10"
+        />
+      </tr>
+      <tr>
+        <td
+          className="Component-rowCell-10"
+        />
+        <td
+          className="Component-rowCell-10"
+        />
+        <td
+          className="Component-rowCell-10"
+        />
+        <td
+          className="Component-rowCell-10"
+        />
+      </tr>
+      <tr>
+        <td
+          className="Component-rowCell-10"
+        />
+        <td
+          className="Component-rowCell-10"
+        />
+        <td
+          className="Component-rowCell-10"
+        />
+        <td
+          className="Component-rowCell-10"
+        />
+      </tr>
+    </tbody>
+  </table>
+</div>
+`;
+
+exports[`TalentScoreCard renders with custom class 1`] = `
+<div
+  className="Component-root-9 test"
+>
+  <table
+    className="Component-content-3"
+  >
+    <thead>
+      <tr>
+        <th
+          className="Component-headerCell-4"
+        />
+        <th
+          className="Component-headerCell-4"
+        />
+        <th
+          className="Component-headerCell-4"
+        />
+        <th
+          className="Component-headerCell-4"
+        />
+      </tr>
+    </thead>
+    <tbody />
+  </table>
+</div>
+`;

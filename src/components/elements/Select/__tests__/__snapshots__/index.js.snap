@@ -1,0 +1,55 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Select renders correctly 1`] = `
+<div
+  className="MuiFormControl-root-4 Component-dropdown-2"
+>
+  <div
+    className="MuiInput-root-13 MuiInput-formControl-14 Component-select-3"
+  >
+    <div
+      className="MuiSelect-root-8"
+    >
+      <select
+        aria-invalid={false}
+        className="MuiSelect-select-9 MuiInput-input-21"
+        disabled={false}
+        onBlur={[Function]}
+        onChange={[Function]}
+        onFocus={[Function]}
+        required={false}
+        value=""
+      >
+        <option
+          disabled={true}
+          value=""
+        >
+          Filters
+        </option>
+        <option
+          className="Component-menu-1"
+          value="most"
+        >
+          Most Viewed
+        </option>
+        <option
+          className="Component-menu-1"
+          value="recent"
+        >
+          Recent Update
+        </option>
+      </select>
+      <svg
+        aria-hidden="true"
+        className="MuiSvgIcon-root-26 MuiSelect-icon-12"
+        focusable="false"
+        viewBox="0 0 24 24"
+      >
+        <path
+          d="M7 10l5 5 5-5z"
+        />
+      </svg>
+    </div>
+  </div>
+</div>
+`;

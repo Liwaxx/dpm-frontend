@@ -1,0 +1,35 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ModalPertahun renders correctly 1`] = `
+<div
+  className="modal"
+>
+  <button
+    className="MuiButtonBase-root-35 MuiButton-root-9 MuiButton-text-11 MuiButton-flat-14 Component-text-8"
+    disabled={false}
+    id="modal-pertahun-open"
+    onBlur={[Function]}
+    onClick={[Function]}
+    onFocus={[Function]}
+    onKeyDown={[Function]}
+    onKeyUp={[Function]}
+    onMouseDown={[Function]}
+    onMouseLeave={[Function]}
+    onMouseUp={[Function]}
+    onTouchEnd={[Function]}
+    onTouchMove={[Function]}
+    onTouchStart={[Function]}
+    tabIndex="0"
+    type="button"
+  >
+    <span
+      className="MuiButton-label-10"
+    >
+      Oktober 2018
+    </span>
+    <span
+      className="MuiTouchRipple-root-38"
+    />
+  </button>
+</div>
+`;

@@ -1,0 +1,34 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`TalentScoreCard renders correctly 1`] = `
+<table
+  className="Component-root-3"
+>
+  <thead>
+    <tr>
+      <th />
+      <th />
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td />
+      <td />
+    </tr>
+  </tbody>
+</table>
+`;
+
+exports[`TalentScoreCard renders with custom class 1`] = `
+<table
+  className="Component-root-3 test"
+>
+  <thead>
+    <tr>
+      <th />
+      <th />
+    </tr>
+  </thead>
+  <tbody />
+</table>
+`;

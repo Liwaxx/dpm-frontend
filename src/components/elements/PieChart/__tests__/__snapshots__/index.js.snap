@@ -1,0 +1,25 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`PieChart renders correctly 1`] = `
+<div>
+  <div>
+    Loading Chart
+  </div>
+  <div
+    className="Component-legends-1"
+  >
+    
+  </div>
+</div>
+`;
+
+exports[`PieChart renders with legend 1`] = `
+<div>
+  <div>
+    Loading Chart
+  </div>
+  <div
+    className="Component-legends-1"
+  />
+</div>
+`;

@@ -1,0 +1,33 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Modal renders correctly 1`] = `
+<div>
+  <button
+    className="MuiButtonBase-root-39 MuiButton-root-13 MuiButton-text-15 MuiButton-flat-18 Component-detail-3"
+    disabled={false}
+    id="modal-open"
+    onBlur={[Function]}
+    onClick={[Function]}
+    onFocus={[Function]}
+    onKeyDown={[Function]}
+    onKeyUp={[Function]}
+    onMouseDown={[Function]}
+    onMouseLeave={[Function]}
+    onMouseUp={[Function]}
+    onTouchEnd={[Function]}
+    onTouchMove={[Function]}
+    onTouchStart={[Function]}
+    tabIndex="0"
+    type="button"
+  >
+    <span
+      className="MuiButton-label-14"
+    >
+      Oktober, Minggu 2
+    </span>
+    <span
+      className="MuiTouchRipple-root-42"
+    />
+  </button>
+</div>
+`;
